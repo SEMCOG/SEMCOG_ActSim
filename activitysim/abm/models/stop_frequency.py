@@ -107,6 +107,10 @@ def process_trips(tours, stop_frequency_alts):
 
     trips.set_index('trip_id', inplace=True, verify_integrity=True)
 
+    # set in stop_frequency_university_parking, but variable needs to be in trip table
+    # so that trip_mode_choice spec can be used in trip_destination
+    trips['parked_at_university'] = False
+
     return trips
 
 
