@@ -1,0 +1,51 @@
+---
+output: flexdashboard::flex_dashboard
+---
+```{r, results='asis'}
+title <- str_c("### Trip Tables: ", market_name)
+cat(title, '\n')
+```
+
+```{r}
+td_o_total <- td_select[, .(num_trks = sum(num_trks)), by = .(Destination_District, data_source)][, Origin_District := "Total"]
+td_d_total <- td_select[, .(num_trks = sum(num_trks)), by = .(Origin_District, data_source)][, Destination_District := "Total"]
+td_total <- td_select[, .(num_trks = sum(num_trks)), by = .(data_source)][, c("Origin_District", "Destination_District") := "Total"]
+td_od <- rbind(td_select[, .(num_trks = sum(num_trks)), by = .(Origin_District, Destination_District, data_source)], 
+               td_o_total, 
+               td_d_total, 
+               td_total)
+
+td_diffs <- dcast(td_od, Origin_District + Destination_District ~ data_source,
+                value.var = "num_trks", fun.aggregate = sum)
+td_diffs[, ratio := get(data_name_run)/get(data_name_ref)]
+td_diffs[, ratio := format(ratio, digits = 2, big.mark = ",", scientific = FALSE)]
+td_diffs[, run_col := format(get(data_name_run),  big.mark = ",", scientific = FALSE)]
+td_diffs[, ref_col := format(get(data_name_ref),  big.mark = ",", scientific = FALSE)]
+trip_table_model <- dcast(td_diffs, Origin_District ~ Destination_District,
+                          value.var = "run_col")
+trip_table_atri <- dcast(td_diffs, Origin_District ~ Destination_District,
+                         value.var = "ref_col")
+trip_table_ratio <- dcast(td_diffs, Origin_District ~ Destination_District,
+                         value.var = "ratio")
+
+dt <- trip_table_ratio
+kable(dt, escape=FALSE) %>%
+  kable_styling(fixed_thead = TRUE, bootstrap_options = c("condensed")) %>%
+  add_header_above(c(str_c(data_name_run, data_name_ref, sep = "/"), "Destination District" = ncol(dt) - 1)) %>%
+  row_spec(nrow(dt), background = "#f2f2f2") %>%
+  column_spec(ncol(dt), background = "#f2f2f2")
+
+dt <- trip_table_model
+kable(dt, escape=FALSE) %>%
+  kable_styling(fixed_thead = TRUE, bootstrap_options = c("condensed")) %>%
+  add_header_above(c(str_c(data_name_run, " Totals"), "Destination District" = ncol(dt) - 1)) %>%
+  row_spec(nrow(dt), background = "#f2f2f2") %>%
+  column_spec(ncol(dt), background = "#f2f2f2")
+
+dt <- trip_table_atri
+kable(dt, escape=FALSE) %>%
+  kable_styling(fixed_thead = TRUE, bootstrap_options = c("condensed")) %>%
+  add_header_above(c(str_c(data_name_ref, " Totals"), "Destination District" = ncol(dt) - 1)) %>%
+  row_spec(nrow(dt), background = "#f2f2f2") %>%
+  column_spec(ncol(dt), background = "#f2f2f2")
+```

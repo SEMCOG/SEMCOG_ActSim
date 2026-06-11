@@ -1,0 +1,15 @@
+header:
+  tab: "SEMCOG ActSim"
+  title: "SEMCOG ActSim Transit Visualizer"
+  description: "Transit trip profiles, OD flows, and skim viewer."
+
+storage:
+  1. Transit Dashboard:
+    path: "."
+    description: 'Transit dashboards'
+  2. OD Desire Lines:
+    path: "./od"
+    description: 'Transit OD desire lines'
+  3. Skims Viewer:
+    path: "../../Skims"
+    description: 'Skim Viewer'

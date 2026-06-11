@@ -1,0 +1,4 @@
+Description,Target,Expression
+,origin_local_dist,"reindex(land_use.AE_LOCAL, persons.home_zone_id)"
+,origin_prm_dist,"reindex(land_use.AE_PRM, persons.home_zone_id)"
+,transit_availability,(origin_local_dist<5) | (origin_prm_dist<5)

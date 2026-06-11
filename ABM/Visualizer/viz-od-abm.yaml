@@ -1,0 +1,9 @@
+title: "ABM — Transit OD by County"
+description: "Origin-Destination flows aggregated to 8 counties, summed across all 5 time periods and transit modes."
+
+shpFile: "semcog_counties.shp"
+dbfFile: "semcog_counties.dbf"
+csvFile: "abm_od_county.csv"
+idColumn: "F2019_maz_"
+projection: "EPSG:4269"
+scaleFactor: 1

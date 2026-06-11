@@ -1,0 +1,211 @@
+<script>
+$(document).ready(function() {
+
+    //Make folders clickable
+    $(".folder").css('cursor', 'pointer');
+
+    //Hide/show function
+    $(".folder").click(function() {
+         clickedEl = $(this).parent();
+         el = clickedEl.nextAll('div').eq(0);
+         if (el.is(":visible")) {
+             el.hide();
+             $(this).html($(this).html().replace("\u25BE", "\u25B8")); //c/e=down, a/8=right
+         } else {
+             el.show();
+             $(this).html($(this).html().replace("\u25B8", "\u25BE"));
+         }
+         return false;
+    });
+     
+     //Hide or show all
+    $("#HideAll").click(function() {
+        HideAll();
+    });
+
+    $("#ShowAll").click(function() {
+        ShowAll();
+    });
+    
+    function HideAll() {
+        $('[id*="data_"]').hide();
+        
+        $('[id*="folder_"]').each(function() {
+            $(this).html($(this).html().replace("&#x25bc;", "u\x25bc"));
+        });
+    }
+    function ShowAll() {
+        $('[id*="data_"]').show();
+        
+        $('[id*="folder_"]').each(function() {
+            $(this).html($(this).html().replace("u\x25bc", "&#x25bc;"));
+        });
+    }
+      
+    //Hide all by default
+    // (was interfering with copy section functionality)
+    //$('[id*="folder_"]').each(function() {
+    //    $(this).html($(this).html().replace("&#x25bc;", "u\x25bc"));
+    //});
+    $('[id*="data_"]').each(function() {
+        $(this).hide();
+    });
+    
+    //Table of Contents Clicker
+    $(".contents").click(function() {
+        HideAll();
+        ref = $(this).attr("href");
+        ref = ref.replace("#", "");
+        
+        //All items and sub-items
+        $('[id*="data_"][id*="'+ref+'"]').show();
+        $('[id*="folder_"][id*="'+ref+'"]').each(function() {
+            $(this).html($(this).html().replace("u\x25bc", "&#x25bc;"));
+        });
+        
+    });
+    
+    //Pin table for comparison
+    $(".pin").click(function() {
+    
+        //Manage maximum number of tables
+        if (typeof(PinCount) =='undefined') {
+            PinCount = 0;
+        }
+        if (PinCount > 10 ) {
+            //Show a brief message noting the pin area is full
+            pos = $(this).position();
+            var full_div = $('<div id="fullMsg" class="PinMsg">Only 10 tables can be pinned at a time</div>');
+            full_div.css({"left": pos.left+15, "top": pos.top-15});
+            $('body').append(full_div);
+            full_div.delay(500).fadeOut('slow', function() {
+                $(this).remove();
+            });
+            return;
+        }
+        PinCount ++;
+        
+        //Create a new area for pinned tables
+        var pin_div = $('#pinArea');
+        if ( pin_div.length == 0) {
+            var pin_div = $('<div id="pinArea" class="PinSpace"><div class="PinBar"><span class="ClosePinArea">&times;</span></div></div>');
+            pin_div.sortable({axis: "y", handle: "h5"});
+            pin_div.draggable({handle: ".PinBar"});
+            pin_div.css("position", "fixed"); //override relative from draggable
+            $('body').append(pin_div);
+            
+            //Function to close the entire pin window
+            $('.ClosePinArea').click(function() {
+                $('#pinArea').remove();
+            
+            });
+            
+        }
+        
+        //Add content
+        var pinBox = $(this).parent().parent().clone();
+        var pinPfx = "Pin"
+        pinPfx = pinPfx.concat(PinCount)
+        pinBox.attr("id", pinPfx.concat("_box"));
+        pinBox.attr("class", "PinBox");
+        
+        //Bring in chart info if necessary
+        canvas = pinBox.children("canvas");
+        if (canvas.length > 0) {
+            old_id = canvas.attr("id");
+            new_id = old_id.concat("_pin");
+            
+            //stop if this has already been pinned
+            if ($("#"+new_id).length > 0) {
+                PinCount --;
+                return;
+            }
+            
+            canvas.attr("id", new_id)
+            
+            //Get canvas count for redraw
+            canvas_count = canvas.attr("data-count")
+            canvas_func = "dChart".concat(canvas_count)
+
+        }
+        
+        //Let user close pinned tables
+        var CloseBox = pinBox.children(":first").children(":first")
+        //CloseBox.html('&#x274E;');
+        //CloseBox.html('&#10006;');
+        CloseBox.html('&#x2718;');
+        CloseBox.click(function() {
+
+            $("#"+pinPfx.concat("_box")).remove();
+            PinCount --
+            if (PinCount <= 0) {
+                $('#pinArea').remove();
+            }
+        });
+        pin_div.append(pinBox);
+        
+        //draw the new canvas
+        if (canvas.length > 0) {
+            //dChart1(new_id);
+            window[canvas_func](new_id);
+            canvas.css("background-color", "white");
+        }
+    });
+    
+    //Select a single table and copy
+    $(".clipbd").click(function() {
+        elCopy = $(this).parent().parent().get()[0];
+        copyText(elCopy, $(this));
+    });
+    
+    //Select a parent div (all tables) and copy
+    $(".clipbd_all").click(function() {
+        elCopy = $(this).parents().parents().children().get()[1];
+        copyText(elCopy, $(this));
+    });
+    
+});
+
+function copyText(el, elClicked){
+    var sel, range;
+
+    if (window.getSelection && document.createRange) { //Browser compatibility
+        sel = window.getSelection();
+        if(sel.toString() == ''){ //no text selection
+            range = document.createRange(); //range object
+            range.selectNodeContents(el); //sets Range
+            sel.removeAllRanges(); //remove all ranges from selection
+            sel.addRange(range);//add Range to a Selection.
+        }
+    }else if (document.selection) { //older ie
+        sel = document.selection.createRange();
+        if(sel.text == ''){ //no text selection
+            range = document.body.createTextRange();//Creates TextRange object
+            range.moveToElementText(el);//sets Range
+            range.select(); //make selection.
+        }
+    }
+    var d_init = $(".pin").css("display");
+    $(".pin").css("display", "none");
+    $(".clipbd").css("display", "none");
+    
+    succeed = document.execCommand("copy");
+    sel.removeAllRanges(); //remove all ranges from selection
+    
+    $(".pin").css("display", d_init);
+    $(".clipbd").css("display", d_init);
+    
+    //if (succeed) {
+        //Show a brief message indicating copy was successful
+        pos = elClicked.position();
+        var msg_div = $('<div id="CopyMsg" class="CopyMsg">Selection copied to clipboard</div>');
+        msg_div.css({"left": pos.left+15, "top": pos.top-15});
+        $('body').append(msg_div);
+        msg_div.delay(500).fadeOut('slow', function() {
+            $(this).remove();
+        });
+    //}
+    
+
+}
+</script>

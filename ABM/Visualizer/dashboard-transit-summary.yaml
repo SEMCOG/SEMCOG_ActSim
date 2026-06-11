@@ -1,0 +1,60 @@
+header:
+  tab: "ActSim Transit Trip Summary"
+  title: "ActSim Transit Trip Profile"
+  description: "Percentage breakdowns by person type, household car ownership, and household income."
+
+layout:
+  carownership:
+    - type: bar
+      title: "by Household Car Ownership and Person Type (%)"
+      width: 6
+      height: 6
+      props:
+        dataset: "abm_carownership_by_ptype_pct.csv"
+        x: PersonType
+        stacked: true
+        xAxisName: "Person Type"
+        yAxisName: "Share (%)"
+    # Placeholder for second scenario — uncomment when ready
+    # - type: text
+    #   width: 6
+    #   file: "empty.md"
+
+  income:
+    - type: bar
+      title: "by Household Income and Person Type (%)"
+      width: 6
+      height: 6
+      props:
+        dataset: "abm_income_by_ptype_pct.csv"
+        x: PersonType
+        stacked: true
+        xAxisName: "Person Type"
+        yAxisName: "Share (%)"
+    # Placeholder for second scenario — uncomment when ready
+    # - type: text
+    #   width: 6
+    #   file: "empty.md"
+
+  ptype_share:
+    - type: pie
+      title: "by Person Type (%)"
+      width: 4
+      height: 6
+      props:
+        dataset: "abm_ptype_share.csv"
+        useLastRow: true
+    # Placeholder for second scenario — uncomment when ready
+    # - type: text
+    #   width: 4
+    #   file: "empty.md"
+
+  od_county:
+    - type: text
+      title: "County OD Trips (ABM)"
+      width: 4
+      file: "abm_od_county_matrix.md"
+    # Placeholder for second scenario — uncomment when ready
+    # - type: text
+    #   width: 4
+    #   file: "empty.md"

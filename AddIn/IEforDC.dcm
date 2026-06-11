@@ -1,0 +1,6 @@
+model label="DC for IE" version=1.5
+  source name=Matrix1 type=Matrix primary=True file="E:\Projects\Clients\SEMCOG\Models\SEMCOG Trip Based Model (E7)\Model Runs\E7V1_RTP2045_KA15\Output\HAssign\OD_DY.mtx" filelabel="DY Vehicle Trips in OD Format" rowindex=Rows colindex=Columns
+  source name=Data1 type=Zonal view=External_2015IE idfield=TAZ
+  segment name=*
+    alternative name=IE_Destinations destsource=Matrix1 destindex=Columns
+

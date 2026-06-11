@@ -1,0 +1,2485 @@
+"OCOUNTY","DCOUNTY","trip_mode","tour_purpose","count"
+NA,NA,NA,NA,NA
+"Monroe","Monroe","Auto 2 Person","Shop",16879.181822999
+"Detroit","Detroit","Walk","Work",12316.3131592402
+"Detroit","Oakland","Auto SOV","Work",48874.5890124626
+"Oakland","Detroit","Auto SOV","Work",42247.7379106066
+"Wayne","Washtenaw","Auto SOV","Work",32689.8714912807
+"Washtenaw","Monroe","Auto SOV","Work",4326.59509899516
+"Monroe","Wayne","Auto SOV","Work",11834.728032414
+"Wayne","Wayne","Auto SOV","Eating Out",46797.8953692357
+"Washtenaw","Washtenaw","Auto SOV","Work-based",27580.9257552171
+"Wayne","Wayne","Auto SOV","Work",416897.485895418
+"Wayne","Wayne","Auto 2 Person","Work-based",15000.108525404
+"Washtenaw","Washtenaw","Auto SOV","University",18938.943656127
+"Washtenaw","Washtenaw","Auto SOV","Maintenance",68258.6617723661
+"Washtenaw","Washtenaw","Auto SOV","Eating Out",17645.6512981434
+"Detroit","Macomb","Auto SOV","Work",27842.842180948
+"Macomb","Detroit","Auto SOV","Work",32997.923320656
+"Detroit","Detroit","Walk","Maintenance",22089.362939914
+"Detroit","Detroit","Auto SOV","Maintenance",89806.316875386
+"Detroit","Detroit","Walk","Discretionary",32502.645115026
+"Macomb","Detroit","Auto SOV","Work-based",2324.108130639
+"Detroit","Detroit","Auto SOV","Work-based",19269.1098234112
+"Detroit","Macomb","Auto SOV","Work-based",2309.794829862
+"Oakland","Oakland","Auto SOV","Work",617098.988518429
+"Oakland","Oakland","Auto 2 Person","Work",186957.328056951
+"Oakland","Oakland","Auto SOV","Work-based",94208.8196921582
+"Washtenaw","Washtenaw","Walk-Transit","Shop",4885.63257828812
+"Washtenaw","Washtenaw","Walk","Shop",5249.528694466
+"Livingston","Livingston","Auto 2 Person","Escort",15018.167518446
+"Livingston","Livingston","Auto SOV","Escort",11647.178353936
+"Livingston","Livingston","Auto 3+ Person","Escort",10954.400415431
+"Livingston","Wayne","Auto SOV","Work",8856.445338795
+"Wayne","Livingston","Auto SOV","Work",8789.08178378
+"Livingston","Livingston","Auto 2 Person","Work",16493.2905207152
+"Livingston","Livingston","Auto 3+ Person","School",20125.716193888
+"Livingston","Livingston","Walk","School",1653.5317664
+"Livingston","Livingston","Auto 2 Person","School",19776.022911428
+"Wayne","Wayne","Walk","Discretionary",41104.618210354
+"Wayne","Wayne","Auto SOV","Shop",240742.920290053
+"Oakland","Oakland","Walk","Escort",23095.274645654
+"Oakland","Oakland","Auto 3+ Person","Discretionary",120176.678062286
+"Oakland","Oakland","Walk","School",28233.984442152
+"Washtenaw","Washtenaw","Auto 2 Person","Discretionary",52437.640872527
+"Washtenaw","Detroit","Auto 2 Person","Work",2199.767832719
+"Detroit","Washtenaw","Auto SOV","Work",2254.116057706
+"Detroit","Detroit","Walk-Transit","Discretionary",10845.806930354
+"Wayne","Macomb","Auto 2 Person","Work",7943.322972463
+"Macomb","Oakland","Auto 2 Person","Work",17059.775810052
+"Oakland","Wayne","Auto 2 Person","Work",20553.395596252
+"Wayne","Wayne","School Bus","School",86597.477474804
+"Wayne","Wayne","Auto 3+ Person","School",176561.836812564
+"Washtenaw","Detroit","Auto SOV","Work",2483.35290367012
+"Detroit","Detroit","Auto 2 Person","Maintenance",70887.8286476111
+"Detroit","Wayne","Auto 2 Person","Maintenance",17601.210186779
+"Wayne","Detroit","Auto 2 Person","Maintenance",18596.209689799
+"Livingston","Livingston","Auto SOV","Work",51251.4446228399
+"Livingston","Detroit","Auto SOV","Work",601.345737232
+"Detroit","Livingston","Auto SOV","Work",694.538135812
+"Washtenaw","Washtenaw","Auto SOV","Work",144684.849656353
+"Monroe","Monroe","Auto SOV","Work",43639.979800482
+"St. Clair","Macomb","Auto 2 Person","Escort",1312.677208785
+"Macomb","St. Clair","Auto SOV","Escort",1438.481656377
+"St. Clair","Macomb","Auto SOV","Escort",1471.877644277
+"Macomb","Macomb","Auto 2 Person","Escort",83945.8031415933
+"Macomb","St. Clair","Auto 2 Person","Escort",1730.262516412
+"St. Clair","St. Clair","Auto SOV","Visiting",9592.540786127
+"St. Clair","Macomb","Auto 2 Person","School",1468.902756772
+"Macomb","Macomb","Walk","School",31748.136268092
+"Macomb","Macomb","Auto 2 Person","School",77755.360171872
+"Macomb","St. Clair","Auto 2 Person","School",1150.351964572
+"Washtenaw","Washtenaw","Auto 2 Person","Work",58401.7778148481
+"Washtenaw","Washtenaw","Walk","Discretionary",27662.9477630006
+"Washtenaw","Washtenaw","Auto 3+ Person","Maintenance",15991.9895676256
+"Washtenaw","Washtenaw","Auto 2 Person","Maintenance",36598.5294480634
+"Washtenaw","Washtenaw","Auto 2 Person","Escort",34019.7972505696
+"Washtenaw","Washtenaw","Auto 3+ Person","Escort",25046.689055564
+"Washtenaw","Washtenaw","Auto 3+ Person","Visiting",5450.718012887
+"Washtenaw","Washtenaw","Auto 2 Person","School",42542.6198930832
+"Washtenaw","Washtenaw","Auto 3+ Person","School",50303.570233423
+"Oakland","Macomb","Auto SOV","Work",105845.234399757
+"Macomb","Oakland","Auto SOV","Work",105045.970123441
+"Oakland","Oakland","Auto SOV","Shop",272630.83151746
+"Washtenaw","Washtenaw","Auto 2 Person","Shop",45747.3879164297
+"Oakland","Oakland","Auto 3+ Person","Eating Out",27438.3534945501
+"Livingston","Washtenaw","Auto SOV","Work",11091.4717601205
+"Washtenaw","Livingston","Auto SOV","Work",10992.3564699615
+"Livingston","Livingston","Auto 2 Person","Eating Out",8139.997095239
+"Washtenaw","Washtenaw","Auto 2 Person","Work-based",7222.9060723748
+"Livingston","Oakland","Auto SOV","Work",17801.800625174
+"Oakland","Livingston","Auto SOV","Work",17581.662141103
+"Oakland","Wayne","Auto SOV","Work-based",4424.239280483
+"Wayne","Wayne","Auto SOV","Work-based",61476.875440163
+"Wayne","Oakland","Auto SOV","Work-based",4760.7860870972
+"Washtenaw","Washtenaw","Walk","Work",20943.707700286
+"Washtenaw","Washtenaw","Auto 3+ Person","Work",10985.1469400629
+"Washtenaw","Washtenaw","Auto 3+ Person","Discretionary",22335.417063634
+"Oakland","Oakland","Auto 2 Person","University",23890.512586935
+"Oakland","Wayne","Auto SOV","University",2706.585705195
+"Wayne","Oakland","Auto SOV","University",3337.035789703
+"Oakland","Oakland","Auto SOV","University",39222.257514753
+"Oakland","Oakland","Auto SOV","Visiting",60811.4176218403
+"Oakland","Oakland","Auto 2 Person","Visiting",38727.365086671
+"Oakland","Oakland","Auto 2 Person","School",139732.06219842
+"Detroit","Detroit","Walk","Shop",62957.881530196
+"Detroit","Detroit","Auto SOV","Work",112954.950778603
+"Detroit","Detroit","School Bus","School",20142.775715692
+"St. Clair","St. Clair","Walk-Transit","Discretionary",483.322522532
+"Washtenaw","Washtenaw","Auto SOV","Discretionary",62781.6836139657
+"Washtenaw","Washtenaw","Auto SOV","Shop",57831.8362433886
+"Washtenaw","Washtenaw","Auto SOV","Escort",28861.8695006473
+"Washtenaw","Washtenaw","School Bus","School",22980.468861508
+"Detroit","Wayne","Auto SOV","Shop",12967.5880884172
+"Wayne","Detroit","Auto SOV","Shop",12309.7002560549
+"Wayne","Oakland","Auto SOV","Work",93823.553768241
+"Oakland","Wayne","Auto SOV","Work",96523.3269673261
+"St. Clair","Macomb","Auto 2 Person","Shop",1770.167326565
+"Macomb","Macomb","Auto 2 Person","Shop",129807.974877916
+"Macomb","St. Clair","Auto 2 Person","Shop",2031.919963986
+"St. Clair","Detroit","Auto SOV","Maintenance",158.1139131
+"Detroit","Macomb","Auto SOV","Maintenance",3360.7806366735
+"Macomb","St. Clair","Auto SOV","Maintenance",2169.614169202
+"Livingston","Oakland","Auto SOV","Shop",3884.563662168
+"Oakland","Livingston","Auto SOV","Shop",3584.697615797
+"Monroe","Monroe","Auto 3+ Person","Maintenance",9757.331064157
+"Monroe","Monroe","School Bus","School",20435.580069296
+"Monroe","Monroe","Auto 3+ Person","School",15821.41667632
+"Livingston","Livingston","Auto 2 Person","Shop",23876.4640391533
+"Macomb","Macomb","Auto SOV","Work",376944.030356448
+"Wayne","Oakland","Auto 2 Person","Maintenance",9130.332583649
+"Oakland","Oakland","Auto 2 Person","Maintenance",141121.402380414
+"Oakland","Wayne","Auto 2 Person","Maintenance",8999.000059231
+"Wayne","Livingston","Auto SOV","Shop",232.51303722
+"Livingston","Livingston","Auto SOV","Shop",33642.581129346
+"Monroe","Monroe","Walk","Maintenance",3035.970085895
+"Monroe","Monroe","Auto SOV","Shop",23352.467572136
+"Wayne","Wayne","Auto SOV","Discretionary",172187.039190868
+"Wayne","Wayne","Auto 2 Person","Shop",179732.90700493
+"Wayne","Macomb","Auto SOV","Work",21643.352707739
+"Macomb","Oakland","Auto SOV","Work-based",3339.804029222
+"St. Clair","St. Clair","Walk","Work",979.693407321
+"St. Clair","St. Clair","Auto SOV","Work",66106.5677420187
+"Monroe","Monroe","Walk","Shop",3990.880193864
+"Monroe","Monroe","Auto 3+ Person","Shop",8393.179758378
+"Oakland","Oakland","Auto SOV","Maintenance",234575.97020297
+"Oakland","Oakland","Auto 2 Person","Shop",130341.7025598
+"Wayne","Wayne","Auto 3+ Person","Discretionary",83472.7799457792
+"Wayne","Wayne","Auto 2 Person","Discretionary",132667.188941292
+"Wayne","Wayne","Auto SOV","Visiting",62528.1825212184
+"Wayne","Wayne","Walk","School",54980.837988116
+"Wayne","Wayne","Auto 2 Person","School",115133.555175108
+"St. Clair","St. Clair","Walk","Discretionary",3906.1082049135
+"Livingston","Oakland","Auto 2 Person","Work",4038.389709127
+"Oakland","Livingston","Auto 2 Person","Work",5249.413952344
+"Livingston","Livingston","Walk","Discretionary",6375.931841938
+"Wayne","Wayne","Auto 2 Person","Maintenance",120667.430045299
+"Oakland","Wayne","Auto SOV","Maintenance",16415.310258861
+"Wayne","Wayne","Auto SOV","Maintenance",199550.154415584
+"Monroe","Monroe","Auto 3+ Person","Work",5878.542160467
+"Monroe","Monroe","Auto 3+ Person","Discretionary",11161.2788241397
+"Monroe","Detroit","Auto SOV","Work",1532.021912471
+"Detroit","Monroe","Auto SOV","Work",1619.822877958
+"Monroe","Monroe","Walk","School",3070.4590109
+"Monroe","Monroe","Auto 3+ Person","Visiting",8380.429697075
+"Detroit","Detroit","Auto 2 Person","Shop",46833.653746128
+"Livingston","Livingston","Auto SOV","Discretionary",25786.4832921194
+"Livingston","Livingston","Auto 2 Person","Discretionary",24961.495067393
+"Oakland","Oakland","Auto SOV","Escort",83050.7487866886
+"Oakland","Macomb","Auto SOV","Escort",2462.388661638
+"Macomb","Oakland","Auto SOV","Escort",2097.792339047
+"Livingston","Washtenaw","Auto 2 Person","Work",4493.345156643
+"Washtenaw","Livingston","Auto 2 Person","Work",3859.493647551
+"Livingston","Livingston","Auto SOV","Maintenance",29091.33953673
+"St. Clair","Macomb","Auto SOV","Maintenance",1618.045963901
+"Macomb","Macomb","Auto SOV","Maintenance",161557.477977824
+"Macomb","Macomb","Auto 2 Person","Maintenance",121237.429141025
+"St. Clair","St. Clair","Auto SOV","Maintenance",35206.2903859254
+"St. Clair","Macomb","Auto SOV","School",341.263887132
+"Macomb","St. Clair","Auto SOV","School",261.206017632
+"St. Clair","Macomb","School Bus","School",1785.6683732
+"Macomb","St. Clair","Walk","School",194.7660663
+"St. Clair","St. Clair","Auto 2 Person","School",14467.442129596
+"St. Clair","Macomb","Auto 2 Person","Maintenance",976.359366167
+"Macomb","Oakland","Auto 2 Person","Maintenance",16015.713312305
+"Oakland","Macomb","Auto 2 Person","Maintenance",17047.678996326
+"Macomb","St. Clair","Auto 2 Person","Maintenance",796.523204267
+"Washtenaw","Washtenaw","Walk","Work-based",18963.5605051653
+"Wayne","Wayne","Auto 3+ Person","Maintenance",38026.487740809
+"Wayne","Livingston","Auto SOV","Maintenance",1016.831871478
+"Livingston","Wayne","Auto 2 Person","Work",3649.297399514
+"Wayne","Livingston","Auto 2 Person","Work",2761.720608356
+"Livingston","Livingston","School Bus","School",25314.069238724
+"Livingston","Oakland","Auto 2 Person","Eating Out",362.157800613
+"Oakland","Oakland","Auto 2 Person","Eating Out",78002.3083469213
+"Oakland","Livingston","Auto SOV","Eating Out",2193.726280906
+"Detroit","Detroit","Auto 3+ Person","Work",22171.2152709001
+"Detroit","Detroit","Auto 2 Person","Work",40967.9153441804
+"Detroit","Wayne","Auto SOV","Work",62307.5598213222
+"Wayne","Detroit","Auto SOV","Work",61749.294676444
+"Detroit","Detroit","Auto SOV","University",18033.7989608796
+"Detroit","Detroit","Auto 3+ Person","School",158039.402616952
+"Detroit","Detroit","Auto 2 Person","School",46460.998036348
+"Wayne","Oakland","Auto SOV","Maintenance",15451.223180934
+"Oakland","Oakland","Auto SOV","Discretionary",241229.708889804
+"Wayne","Wayne","Walk","Work",14874.6057820001
+"Washtenaw","Oakland","Auto SOV","Maintenance",2561.447888978
+"Oakland","Livingston","Auto SOV","Maintenance",4639.473565196
+"Washtenaw","Oakland","Auto 2 Person","Work",2534.4195556363
+"Livingston","Washtenaw","Auto 2 Person","School",589.4940863
+"Washtenaw","Oakland","Auto 2 Person","School",665.4407613
+"Oakland","Livingston","Auto 2 Person","School",2267.418637996
+"Livingston","Washtenaw","Auto SOV","Discretionary",979.625893012
+"Washtenaw","Livingston","Auto SOV","Discretionary",1210.720294228
+"Monroe","Wayne","Auto SOV","Visiting",624.006686554
+"Wayne","Monroe","Auto SOV","Visiting",679.635866253
+"Monroe","Monroe","Auto SOV","Maintenance",22589.537085906
+"Detroit","Macomb","Auto SOV","Discretionary",1357.531938689
+"Macomb","Detroit","Auto SOV","Discretionary",2616.062871179
+"Livingston","Oakland","Auto 3+ Person","Maintenance",645.59797143
+"Oakland","Oakland","Auto 3+ Person","Maintenance",40443.609969725
+"Oakland","Livingston","Auto 3+ Person","Maintenance",1048.070175982
+"Washtenaw","Wayne","Auto SOV","University",4288.2620132
+"Wayne","Washtenaw","Auto SOV","University",4254.9454432
+"Washtenaw","Wayne","Auto SOV","Work",31623.1117762316
+"Wayne","Detroit","Walk-Transit","Maintenance",5561.176178871
+"Detroit","Wayne","Walk-Transit","Maintenance",5919.355878771
+"Oakland","Oakland","Walk","Discretionary",83210.390568305
+"Oakland","Oakland","Auto SOV","Eating Out",62558.6187688391
+"St. Clair","St. Clair","Auto 2 Person","Shop",28285.919262918
+"St. Clair","Macomb","Auto SOV","Work",13869.880741698
+"Macomb","St. Clair","Auto SOV","Work",13414.248905559
+"Monroe","Monroe","Auto SOV","School",2474.14524606
+"Detroit","Detroit","Walk","School",25252.257901812
+"Livingston","Detroit","Auto 3+ Person","Discretionary",52.516920386
+"Detroit","Livingston","Auto 3+ Person","Discretionary",118.556428727
+"Livingston","Livingston","Auto 2 Person","Maintenance",21396.3945731468
+"Livingston","Oakland","Auto 2 Person","Work-based",32.443631955
+"Oakland","Livingston","Auto 2 Person","Work-based",465.798959049
+"Livingston","Oakland","Auto SOV","Discretionary",1697.760022984
+"Oakland","Livingston","Auto SOV","Discretionary",1870.419080752
+"Wayne","Wayne","Auto 2 Person","Work",128845.341691945
+"Monroe","Monroe","Auto 2 Person","Maintenance",14822.597308946
+"Monroe","Washtenaw","Auto 2 Person","Maintenance",872.560781362
+"Washtenaw","Monroe","Auto 2 Person","Maintenance",770.356887362
+"Monroe","Monroe","Auto 2 Person","Visiting",5278.949328226
+"Wayne","Macomb","Auto SOV","Maintenance",7508.159249471
+"Macomb","Oakland","Auto SOV","Maintenance",13674.9967479947
+"Oakland","Wayne","Auto 2 Person","Shop",11280.309219478
+"Wayne","Oakland","Auto 2 Person","Shop",12585.065276508
+"Oakland","Wayne","Bike/Moped","Eating Out",995.738702268
+"Wayne","Oakland","Bike/Moped","Eating Out",995.738702268
+"Oakland","Wayne","Auto 2 Person","Discretionary",6645.085626615
+"Wayne","Oakland","Auto 2 Person","Discretionary",11811.617452733
+"Oakland","Wayne","Auto SOV","Shop",10452.2979286742
+"Wayne","Oakland","Auto SOV","Shop",9765.3413790242
+"Livingston","Livingston","Auto 3+ Person","Work",5781.30775424812
+"Livingston","Livingston","Auto 3+ Person","Discretionary",19303.4954172447
+"Oakland","Oakland","Auto 2 Person","Work-based",29051.322230876
+"Livingston","Livingston","Auto 3+ Person","Visiting",4409.51889668
+"Livingston","Oakland","Auto SOV","Work-based",456.577737571
+"Washtenaw","Washtenaw","Walk","Visiting",8976.7789267363
+"Oakland","Macomb","Auto 2 Person","Discretionary",7020.482004303
+"Macomb","Oakland","Auto 2 Person","Discretionary",5836.521818314
+"Oakland","Oakland","Auto 2 Person","Discretionary",159067.350041657
+"Livingston","Oakland","Auto SOV","Maintenance",4849.310042577
+"Wayne","Wayne","Bike/Moped","Discretionary",9644.706064969
+"Wayne","Wayne","Auto 2 Person","Escort",129261.467841408
+"Wayne","Wayne","Auto 3+ Person","Escort",99816.078683185
+"Washtenaw","Livingston","Auto SOV","Work-based",193.66698666
+"Livingston","Washtenaw","Auto SOV","Work-based",223.477062452
+"Washtenaw","Oakland","Auto SOV","Work",11920.6118081113
+"Oakland","Washtenaw","Auto SOV","Work",13210.7932266712
+"Oakland","Oakland","Auto 3+ Person","Work-based",9573.836387295
+"Oakland","Oakland","Walk","Work-based",9291.678660333
+"Washtenaw","Wayne","Auto SOV","Discretionary",4018.599948949
+"Wayne","Washtenaw","Auto SOV","Discretionary",3896.453202787
+"Oakland","Oakland","Auto 3+ Person","Escort",92570.973343905
+"Oakland","Oakland","Auto 3+ Person","School",164444.961823532
+"Washtenaw","Washtenaw","Walk-Transit","Maintenance",3002.866410572
+"St. Clair","St. Clair","Auto SOV","Shop",26184.163872021
+"St. Clair","St. Clair","Auto 2 Person","Work",16193.0891646034
+"Detroit","Wayne","Auto SOV","Discretionary",12135.678381565
+"Wayne","Detroit","Auto SOV","Discretionary",9441.528888413
+"Detroit","Detroit","Auto SOV","Discretionary",35891.366200023
+"Macomb","Washtenaw","Auto SOV","Work",1180.879034361
+"Wayne","Wayne","Auto 2 Person","Eating Out",55309.3705256006
+"Wayne","Wayne","School Bus","Shop",94.073581093
+"Wayne","Oakland","Auto 2 Person","Visiting",3736.211224134
+"Oakland","Detroit","Auto 2 Person","Visiting",2131.382234316
+"Detroit","Oakland","Auto 2 Person","Visiting",4458.298087045
+"Oakland","Wayne","Auto 2 Person","Visiting",3049.272157928
+"Monroe","Monroe","Auto 3+ Person","Escort",9606.97492053172
+"Monroe","Monroe","Auto 2 Person","Escort",11019.6940278772
+"Monroe","Washtenaw","Auto 3+ Person","Escort",85.149594352
+"Washtenaw","Monroe","Auto 3+ Person","Escort",85.149594352
+"Wayne","Monroe","Auto SOV","Work",10954.369897064
+"Wayne","Washtenaw","Auto SOV","Work-based",1274.074798194
+"Washtenaw","Wayne","Auto SOV","Work-based",1220.099911809
+"Monroe","Washtenaw","Auto 3+ Person","Discretionary",284.722762693
+"Washtenaw","Monroe","Auto 3+ Person","Discretionary",179.781933328
+"Detroit","Detroit","Auto SOV","Visiting",12933.060021304
+"Livingston","Oakland","Auto 2 Person","Escort",1314.933846858
+"Oakland","Livingston","Auto SOV","Escort",2581.697135967
+"Livingston","Wayne","Auto SOV","Maintenance",1428.062854277
+"Oakland","Livingston","Auto 2 Person","Maintenance",2320.55922049382
+"Livingston","Oakland","Auto 2 Person","Maintenance",1905.633063196
+"Livingston","Oakland","Auto 2 Person","School",1244.736096124
+"Livingston","Livingston","School Bus","Discretionary",78.877275
+"Washtenaw","Washtenaw","Bike/Moped","Discretionary",4077.274753721
+"St. Clair","St. Clair","Auto SOV","Work-based",8069.680094009
+"St. Clair","St. Clair","Auto 3+ Person","Work",5206.647220262
+"St. Clair","St. Clair","Auto 2 Person","Visiting",4223.056154402
+"St. Clair","St. Clair","Auto 2 Person","Discretionary",18123.9206546066
+"St. Clair","St. Clair","Auto 3+ Person","Discretionary",12977.5891077547
+"Wayne","Wayne","Walk","Eating Out",8739.807726534
+"Livingston","Livingston","Auto 2 Person","Visiting",7736.38311445876
+"Livingston","Wayne","Auto 2 Person","Visiting",641.149725843
+"Wayne","Livingston","Auto 2 Person","Visiting",285.009459581
+"Washtenaw","Washtenaw","Auto 2 Person","Eating Out",18220.9219353809
+"Macomb","Detroit","PNR-Transit","Work",192.941069685
+"Detroit","Macomb","PNR-Transit","Work",192.941069685
+"Monroe","Macomb","Auto SOV","Work",314.304582454
+"Macomb","Monroe","Auto SOV","Work",325.979665699
+"Monroe","Wayne","Auto SOV","Maintenance",1378.504307995
+"Wayne","Monroe","Auto SOV","Maintenance",1128.501921694
+"Detroit","Detroit","Auto 3+ Person","Shop",23629.322473222
+"St. Clair","St. Clair","Auto 2 Person","Maintenance",26164.469477052
+"Macomb","Macomb","Auto SOV","Discretionary",136224.062097386
+"Wayne","Macomb","Auto 2 Person","Discretionary",1759.652109187
+"Macomb","Macomb","Auto 2 Person","Discretionary",97885.847859714
+"Macomb","Detroit","Auto 2 Person","Discretionary",3339.261246782
+"Detroit","Macomb","Auto 2 Person","Discretionary",3840.862458912
+"Macomb","Macomb","School Bus","School",73198.021493452
+"Macomb","Wayne","School Bus","School",1264.7606282
+"Wayne","Macomb","Auto 2 Person","School",1346.3882588
+"Macomb","Macomb","School Bus","Discretionary",838.279984212
+"Macomb","Detroit","School Bus","Discretionary",573.6508679
+"Detroit","Detroit","Auto SOV","Eating Out",6139.99136020062
+"Macomb","Macomb","Auto 2 Person","Eating Out",44942.6582660429
+"Macomb","Macomb","Auto SOV","Eating Out",41654.351691506
+"Washtenaw","Washtenaw","Bike/Moped","University",3062.214456728
+"Oakland","Macomb","Auto 2 Person","Work",16959.63159521
+"Macomb","Macomb","Auto 2 Person","Work",115304.297631485
+"Livingston","Macomb","Auto SOV","Maintenance",132.792124139
+"Macomb","Livingston","Auto SOV","Maintenance",132.792124139
+"Livingston","Livingston","Bike/Moped","Discretionary",611.687629973
+"Washtenaw","Macomb","Auto SOV","Work",1346.010997438
+"Livingston","Livingston","Auto SOV","School",5933.565365664
+"Livingston","Washtenaw","Auto 2 Person","Maintenance",1915.627478556
+"Washtenaw","Livingston","Auto 2 Person","Maintenance",2994.519571277
+"Livingston","Washtenaw","Auto 3+ Person","Escort",320.158806052
+"Washtenaw","Livingston","Auto SOV","Escort",435.081454309
+"Livingston","Washtenaw","Auto 2 Person","Discretionary",438.925525125
+"Washtenaw","Livingston","Auto 2 Person","Discretionary",552.048604945
+"Livingston","Washtenaw","Auto SOV","Escort",661.832516509
+"Washtenaw","Livingston","Auto 3+ Person","Escort",588.133781612
+"Livingston","Washtenaw","Auto 3+ Person","Visiting",214.9193614
+"Washtenaw","Livingston","Auto 3+ Person","Visiting",214.9193614
+"Livingston","Washtenaw","Auto 3+ Person","School",1135.2903794
+"Washtenaw","Livingston","Auto 3+ Person","School",951.2529222
+"Wayne","Detroit","Auto SOV","Maintenance",16654.469198169
+"Detroit","Wayne","Auto SOV","Maintenance",17276.215686567
+"Wayne","Detroit","Auto SOV","Visiting",4804.58228701
+"Detroit","Wayne","Auto SOV","Visiting",5007.707836586
+"Detroit","Detroit","Auto 3+ Person","Escort",103549.764423592
+"Detroit","Detroit","Auto 2 Person","Escort",48314.8469636652
+"Detroit","Macomb","Auto SOV","Shop",3170.23506216572
+"Macomb","Detroit","Auto SOV","Shop",1885.129854681
+"Detroit","Detroit","Walk-Transit","University",11020.622863308
+"Macomb","Oakland","Auto SOV","Discretionary",12065.595930674
+"Oakland","Macomb","Auto SOV","Discretionary",10776.150122746
+"Macomb","Oakland","Auto 2 Person","Eating Out",1739.982042491
+"Oakland","Macomb","Auto 2 Person","Eating Out",1143.827233241
+"Wayne","Wayne","Auto SOV","Escort",90535.98749179
+"Wayne","Detroit","Auto 2 Person","Escort",10802.8393802185
+"Detroit","Wayne","Auto SOV","Escort",8863.10932475
+"Wayne","Detroit","Auto SOV","Escort",7406.053898487
+"Detroit","Wayne","Auto 2 Person","Escort",11162.3855781445
+"Wayne","Wayne","Walk","Escort",16103.162243092
+"Wayne","Detroit","Auto 2 Person","Discretionary",11300.077320958
+"Detroit","Wayne","Auto 2 Person","Discretionary",10152.244014018
+"Macomb","Macomb","Walk","Discretionary",26929.9547778245
+"Macomb","Macomb","Bike/Moped","Discretionary",6270.860783212
+"Livingston","Wayne","Auto 2 Person","Escort",13.040776023
+"Wayne","Oakland","Auto SOV","Escort",3434.5329738862
+"St. Clair","Macomb","Auto SOV","Shop",1962.494390414
+"Macomb","St. Clair","Auto SOV","Shop",1915.593196445
+"Detroit","Detroit","Walk-Transit","Maintenance",29967.656425901
+"Livingston","Washtenaw","Auto SOV","Eating Out",225.700033899
+"Washtenaw","Livingston","Auto SOV","Eating Out",225.700033899
+"Livingston","Livingston","Auto SOV","Eating Out",5356.8499763
+"St. Clair","Macomb","Auto 3+ Person","Work",890.428829394
+"Macomb","St. Clair","Auto 3+ Person","Work",979.187490558
+"St. Clair","Macomb","Auto 3+ Person","Visiting",290.851945748
+"Macomb","Macomb","Auto 2 Person","Visiting",28706.23826509
+"Macomb","St. Clair","Auto 3+ Person","Visiting",58.8372689
+"St. Clair","St. Clair","Auto 3+ Person","Visiting",4913.824543111
+"Oakland","Oakland","Auto 3+ Person","Work",76895.559645159
+"Livingston","Oakland","Auto 2 Person","Discretionary",1702.06317794
+"Detroit","Macomb","Auto 2 Person","Work",9238.738763899
+"Macomb","Detroit","Auto 2 Person","Work",8114.217376845
+"Detroit","Macomb","Auto 2 Person","Escort",4734.7173793245
+"Macomb","Macomb","Auto SOV","Escort",45242.240004057
+"Macomb","Detroit","Auto SOV","Escort",3933.133802008
+"Detroit","Macomb","Auto SOV","Escort",4132.81089118968
+"Macomb","Detroit","Auto 2 Person","Escort",6197.0349255945
+"Macomb","Macomb","Auto SOV","Shop",152816.012178444
+"St. Clair","Macomb","Auto 3+ Person","Escort",2554.656137928
+"St. Clair","St. Clair","Auto 3+ Person","Escort",17710.735131617
+"St. Clair","St. Clair","Auto SOV","Escort",13140.6230072348
+"St. Clair","Macomb","Auto 3+ Person","Shop",277.43477565
+"Macomb","St. Clair","Auto 3+ Person","Shop",277.43477565
+"Macomb","St. Clair","Auto 3+ Person","Escort",2654.56150464
+"St. Clair","St. Clair","School Bus","School",18186.6211504998
+"St. Clair","St. Clair","Auto 3+ Person","School",22070.263724348
+"St. Clair","Macomb","Auto 3+ Person","School",1678.403391368
+"Macomb","St. Clair","Auto 3+ Person","School",1916.403840672
+"St. Clair","St. Clair","Auto SOV","School",2778.500021212
+"St. Clair","St. Clair","Auto SOV","Discretionary",22707.6144544545
+"St. Clair","St. Clair","Auto 2 Person","Escort",17377.299566719
+"Livingston","Oakland","Auto SOV","Visiting",975.772515217
+"Oakland","Washtenaw","Auto SOV","Visiting",208.330392109
+"Washtenaw","Livingston","Auto SOV","Visiting",508.011424923
+"Macomb","Wayne","Auto SOV","Work",22220.327794659
+"Oakland","Oakland","Auto 2 Person","Escort",119160.636660758
+"Macomb","Macomb","Auto 3+ Person","Shop",72119.090453125
+"Macomb","Macomb","Auto 3+ Person","Escort",45390.1149180327
+"Macomb","Macomb","Auto SOV","University",32670.928479185
+"Macomb","Macomb","Auto 3+ Person","University",19289.605317008
+"Macomb","Macomb","Auto 2 Person","University",15552.86094643
+"Oakland","Livingston","Auto SOV","Work-based",300.038789837
+"Macomb","Macomb","Auto 3+ Person","Maintenance",22445.900671208
+"Macomb","Macomb","Auto 3+ Person","Visiting",39382.388874476
+"Macomb","Macomb","Auto SOV","Visiting",45054.591033374
+"Macomb","Macomb","Walk","Visiting",4038.360794276
+"Detroit","Macomb","Auto 3+ Person","Work",3056.276624657
+"Macomb","Detroit","Auto 3+ Person","Work",2996.357817849
+"Macomb","Macomb","Auto SOV","School",15460.068960752
+"Livingston","Oakland","Auto 2 Person","Visiting",827.478235311
+"Oakland","Livingston","Auto 2 Person","Visiting",827.478235311
+"Washtenaw","Washtenaw","Auto SOV","Visiting",16776.3081808229
+"Wayne","Macomb","Auto 2 Person","Shop",4465.257734316
+"Macomb","Wayne","Auto 2 Person","Shop",4839.978120129
+"Wayne","Detroit","Auto 3+ Person","University",2207.3127741276
+"Detroit","Wayne","Auto SOV","University",6129.975646275
+"Detroit","Wayne","Auto 3+ Person","Work",2972.754785049
+"Detroit","Wayne","Auto 3+ Person","University",1125.8075213276
+"Livingston","Livingston","Auto SOV","Visiting",4208.27403645552
+"Oakland","Livingston","Auto SOV","Visiting",769.211363618
+"Livingston","Livingston","Auto 3+ Person","Maintenance",3676.026353193
+"Oakland","Livingston","Auto 2 Person","Escort",1237.500102212
+"Macomb","Macomb","Auto SOV","Work-based",44450.073398148
+"Wayne","Wayne","Auto 2 Person","Visiting",58615.0244435554
+"Washtenaw","Washtenaw","PNR-Transit","Work",2198.32561291846
+"Detroit","Detroit","Walk-Transit","Eating Out",1668.24094371
+"Washtenaw","Washtenaw","Bike/Moped","Visiting",663.8856591
+"Washtenaw","Washtenaw","Bike/Moped","Work",14566.3015980436
+"St. Clair","Macomb","Auto SOV","Eating Out",779.031486392
+"Macomb","Macomb","Auto 3+ Person","Eating Out",25756.020273586
+"Macomb","St. Clair","Auto SOV","Eating Out",779.031486392
+"St. Clair","St. Clair","Walk","Shop",1138.056143477
+"St. Clair","Macomb","Auto 3+ Person","Discretionary",1061.152816294
+"Macomb","Macomb","Auto 3+ Person","Discretionary",73957.810515941
+"Macomb","St. Clair","Auto 3+ Person","Discretionary",1326.10784282856
+"Macomb","Macomb","Auto 3+ Person","School",101399.937215356
+"Washtenaw","Oakland","Auto 2 Person","Eating Out",287.683726923
+"Oakland","Washtenaw","Auto 2 Person","Eating Out",287.683726923
+"Wayne","Wayne","Walk","University",13232.419119448
+"Wayne","Wayne","School Bus","University",7762.99730408
+"Wayne","Wayne","Auto 2 Person","University",20610.0350862828
+"Monroe","Monroe","Auto SOV","Discretionary",19050.794497159
+"Livingston","Macomb","Auto SOV","Work",1825.48043175
+"Wayne","Detroit","PNR-Transit","Work",1673.7224136331
+"Detroit","Wayne","PNR-Transit","Work",2440.0105294291
+"Wayne","Wayne","Auto 3+ Person","Visiting",33319.4128328244
+"Wayne","Wayne","Auto 3+ Person","Eating Out",28430.588183326
+"Monroe","Monroe","Auto SOV","Work-based",5286.363063452
+"St. Clair","St. Clair","Auto 3+ Person","Maintenance",5926.496030619
+"St. Clair","St. Clair","Auto 3+ Person","Shop",7639.715102242
+"Oakland","Macomb","Auto 3+ Person","Escort",1135.684807968
+"Macomb","Oakland","Auto 3+ Person","Escort",1842.669553191
+"Oakland","Detroit","Auto 2 Person","Work",10280.132355147
+"Detroit","Oakland","Auto 2 Person","Work",8662.627416785
+"Oakland","Macomb","Auto 3+ Person","School",4979.230824672
+"Macomb","Oakland","Auto 3+ Person","School",4005.032254524
+"Monroe","Monroe","Auto SOV","Escort",5713.156523777
+"Oakland","Detroit","Auto SOV","Visiting",2950.007785766
+"Detroit","Oakland","Auto SOV","Visiting",2157.457473159
+"St. Clair","Oakland","Auto SOV","Work",2584.573991382
+"Wayne","Wayne","Walk","Shop",24760.131391813
+"Wayne","Macomb","Auto SOV","Shop",4571.907291332
+"Macomb","Oakland","Auto 2 Person","Shop",7264.908713714
+"Oakland","Oakland","Walk","Shop",26304.896151369
+"Oakland","Macomb","Auto 2 Person","Shop",6017.429251754
+"Macomb","Wayne","Auto SOV","Shop",4953.90079295072
+"Wayne","Detroit","Auto 3+ Person","School",10027.6616811
+"Detroit","Wayne","Auto 3+ Person","School",14499.439255664
+"Wayne","Wayne","Bike/Moped","School",10248.6465428
+"Monroe","Washtenaw","Auto SOV","Work",4448.73460563716
+"Livingston","Wayne","Auto SOV","Escort",539.647913392
+"Wayne","Oakland","Auto 2 Person","Escort",7248.448410723
+"Detroit","Wayne","Auto 2 Person","Work",14524.2898027556
+"Detroit","Wayne","Auto 2 Person","Visiting",3942.8773062
+"Wayne","Detroit","Auto 2 Person","Visiting",6253.567317732
+"Macomb","Detroit","Auto SOV","Maintenance",2979.4743875975
+"Monroe","Wayne","Auto SOV","Escort",613.177762535
+"Wayne","Monroe","Auto SOV","Escort",621.421591343
+"Detroit","Detroit","PNR-Transit","Work",1025.35482084
+"Detroit","Detroit","Walk","University",15181.6348491
+"Oakland","Oakland","Auto SOV","School",21663.06060816
+"Monroe","Washtenaw","Auto SOV","Maintenance",1390.396499377
+"Washtenaw","Monroe","Auto SOV","Maintenance",1112.141059183
+"Monroe","Oakland","Auto SOV","Work",966.523090628
+"Oakland","Monroe","Auto SOV","Work",1068.655235613
+"Livingston","Livingston","Bike/Moped","Work",68.138781
+"Monroe","Monroe","Auto 2 Person","Work",12738.389596554
+"Wayne","Monroe","Auto 2 Person","Work",3080.804643609
+"Monroe","Monroe","Auto SOV","Eating Out",5763.031117764
+"Monroe","Monroe","Auto 2 Person","Eating Out",5978.478677099
+"Monroe","Monroe","Auto 2 Person","School",8205.007356532
+"Oakland","Oakland","Walk","Work",17940.6744310814
+"Washtenaw","Washtenaw","Walk-Transit","University",12522.776755206
+"Oakland","Oakland","School Bus","School",134166.465803068
+"Detroit","Detroit","Auto 2 Person","Discretionary",45485.304586884
+"Detroit","Detroit","Auto 3+ Person","Discretionary",50987.944304431
+"Monroe","Washtenaw","Auto 3+ Person","Visiting",65.233337692
+"Washtenaw","Monroe","Auto 3+ Person","Visiting",65.233337692
+"Macomb","Oakland","Auto SOV","School",1675.09179846
+"Oakland","Macomb","Auto SOV","School",1675.09179846
+"Detroit","Oakland","Auto SOV","Maintenance",14617.720765885
+"Oakland","Detroit","Auto 2 Person","Maintenance",6560.323731405
+"Detroit","Oakland","Auto 3+ Person","Escort",1831.13889357
+"Oakland","Detroit","Auto 3+ Person","Escort",4658.245746236
+"Detroit","Detroit","Auto SOV","Escort",37819.103970158
+"St. Clair","Macomb","Auto SOV","Work-based",29.761834935
+"Detroit","Detroit","Walk-Transit","Shop",12819.890721581
+"Oakland","Detroit","Auto SOV","Maintenance",15142.774012049
+"Oakland","Oakland","Walk","Maintenance",19447.399330442
+"Oakland","Wayne","Auto SOV","Discretionary",10958.4393122472
+"Wayne","Oakland","Auto SOV","Discretionary",12704.3930345812
+"Washtenaw","Detroit","Auto SOV","Maintenance",650.733102133
+"Detroit","Washtenaw","Auto SOV","Maintenance",1623.677746105
+"Detroit","Washtenaw","Auto SOV","Discretionary",70.3537574
+"Detroit","Detroit","Bike/Moped","Maintenance",6097.288106552
+"Detroit","Detroit","Auto 2 Person","Work-based",16469.36445315
+"Oakland","Macomb","Auto SOV","Shop",9668.760041104
+"Macomb","Oakland","Auto SOV","Shop",8750.376817682
+"Wayne","Washtenaw","Auto SOV","Maintenance",5009.74160599276
+"Washtenaw","Wayne","Auto SOV","Maintenance",4743.66389333276
+"Macomb","Macomb","Auto 3+ Person","Work",29779.2880021364
+"Livingston","Wayne","Auto SOV","University",99.9752382
+"Wayne","Livingston","Auto SOV","University",99.9752382
+"Livingston","Livingston","Auto SOV","University",1390.650890555
+"Livingston","Oakland","Auto SOV","Eating Out",2043.261207056
+"St. Clair","Macomb","Auto 2 Person","Work",2039.921950366
+"Macomb","St. Clair","Auto 2 Person","Work",2837.267100997
+"Monroe","Monroe","Auto 2 Person","Discretionary",13906.1913169538
+"Detroit","Detroit","Auto 2 Person","Eating Out",13347.494987752
+"Monroe","Monroe","Auto 3+ Person","Eating Out",5388.727253762
+"Detroit","Wayne","Auto 3+ Person","Visiting",1590.439370739
+"Wayne","Detroit","Walk","Visiting",157.4206955
+"Wayne","Macomb","Auto SOV","Eating Out",331.200420114
+"Macomb","Wayne","Auto SOV","Eating Out",492.306497379
+"Livingston","Oakland","Auto SOV","School",526.030707104
+"Oakland","Livingston","Auto SOV","School",965.844675936
+"Wayne","Wayne","Walk","Maintenance",9940.974291856
+"Wayne","Wayne","Walk-Transit","Shop",3018.684162756
+"St. Clair","St. Clair","Auto SOV","Eating Out",5085.877180768
+"Monroe","Wayne","Auto 2 Person","Maintenance",508.374354257
+"Macomb","Wayne","Auto SOV","Discretionary",2965.388628273
+"Wayne","Macomb","Auto SOV","Discretionary",2731.950598523
+"Monroe","Wayne","Auto 3+ Person","Eating Out",613.083343003
+"Wayne","Monroe","Auto 3+ Person","Eating Out",420.777628923
+"Livingston","Livingston","Auto 3+ Person","Shop",7255.00438929
+"Wayne","Wayne","Auto 3+ Person","Shop",54353.560040751
+"Wayne","Wayne","Auto SOV","University",27882.670628748
+"Wayne","Wayne","Auto 3+ Person","Work",49600.7699487358
+"Wayne","Macomb","School Bus","Discretionary",352.0485124
+"Macomb","Wayne","School Bus","Discretionary",352.0485124
+"Oakland","Oakland","Walk","University",3314.000216028
+"Macomb","Detroit","Auto SOV","Visiting",1186.123319277
+"Detroit","Detroit","Walk","Visiting",20690.498146662
+"Oakland","Livingston","Auto 2 Person","Eating Out",257.684384713
+"Monroe","Monroe","Walk","Eating Out",780.573166252
+"Macomb","Wayne","Auto SOV","Maintenance",7808.894715753
+"Wayne","Wayne","Bike/Moped","Maintenance",6841.432555499
+"Wayne","Wayne","Bike/Moped","Work",4665.817024825
+"Detroit","Detroit","Walk-Transit","Escort",7151.214824493
+"St. Clair","Macomb","Auto SOV","University",1165.612794213
+"Macomb","St. Clair","Auto SOV","University",1191.159765243
+"Macomb","St. Clair","School Bus","School",1723.301984096
+"Monroe","Monroe","Walk","Discretionary",5071.748766827
+"Washtenaw","Washtenaw","Auto 2 Person","Visiting",12027.978431972
+"St. Clair","St. Clair","Auto 2 Person","Eating Out",9989.014945476
+"Livingston","Wayne","Auto 3+ Person","Escort",1399.2745415
+"Wayne","Livingston","Auto 3+ Person","Escort",1388.8405713
+"Detroit","Detroit","Walk","Work-based",19898.3345559702
+"St. Clair","St. Clair","Walk","School",4397.110990836
+"St. Clair","St. Clair","Walk","Escort",5499.946349283
+"Livingston","Washtenaw","Auto SOV","Maintenance",1076.746392891
+"Washtenaw","Livingston","Auto SOV","Maintenance",996.188840981
+"Livingston","Oakland","School Bus","School",392.512230448
+"Oakland","Livingston","School Bus","School",477.911162948
+"Washtenaw","Oakland","Auto SOV","Discretionary",778.739670697
+"Oakland","Washtenaw","Auto SOV","Discretionary",1199.13245368
+"Oakland","Oakland","Bike/Moped","Discretionary",18236.295026096
+"Livingston","Oakland","Auto 3+ Person","Discretionary",554.78462135
+"Oakland","Livingston","Auto 3+ Person","Discretionary",623.75438441336
+"Livingston","Oakland","Auto 3+ Person","Escort",1048.0402166
+"Oakland","Livingston","Auto 3+ Person","Escort",1208.188145102
+"Livingston","Oakland","Auto 3+ Person","School",2470.958178824
+"Oakland","Livingston","Auto 3+ Person","School",1506.48226572
+"Detroit","Detroit","Auto SOV","Shop",31740.2974140008
+"Livingston","Livingston","Walk","Visiting",437.728750916
+"Livingston","Livingston","Walk","Escort",2340.58751608
+"Detroit","Oakland","Auto SOV","Discretionary",9318.86475367734
+"Oakland","Detroit","Auto SOV","Discretionary",8786.99298767734
+"Monroe","Washtenaw","Auto 2 Person","Work",1054.12965211
+"Detroit","Oakland","Walk-Transit","Maintenance",1849.401927508
+"Oakland","Detroit","Walk-Transit","Maintenance",1919.499805608
+"Oakland","Oakland","Walk-Transit","Work",6029.694018176
+"Oakland","Detroit","KNR-Transit","Work",1177.420062664
+"Detroit","Detroit","Auto 3+ Person","Visiting",38334.271926851
+"Wayne","Wayne","Auto SOV","School",28443.829583996
+"Oakland","Macomb","Auto SOV","Maintenance",13926.1889808457
+"Detroit","Detroit","Auto 3+ Person","University",11290.8466947446
+"Detroit","Detroit","Auto 2 Person","University",8934.25597847
+"Oakland","Oakland","School Bus","Visiting",678.5308562
+"Oakland","Oakland","Walk","Visiting",8767.09972197
+"Detroit","Wayne","Auto SOV","Eating Out",3066.608044112
+"Wayne","Detroit","Auto SOV","Eating Out",3028.414118552
+"Detroit","Macomb","Auto 2 Person","Maintenance",3206.284784221
+"Macomb","Detroit","Auto 2 Person","Maintenance",4581.607036639
+"Wayne","Wayne","Auto 3+ Person","University",16904.007827176
+"Wayne","Macomb","Auto 3+ Person","Work",2277.622963614
+"Macomb","Wayne","Auto 3+ Person","Work",949.313535422
+"Detroit","Wayne","Auto 3+ Person","Escort",7560.920296964
+"Wayne","Detroit","Auto 3+ Person","Escort",6308.307738945
+"Detroit","Oakland","Walk-Transit","Work",3326.721667031
+"Oakland","Detroit","Walk-Transit","Work",1661.725158672
+"Wayne","Oakland","Auto 2 Person","Work",20616.007122111
+"Oakland","Macomb","Auto SOV","Eating Out",2098.669980164
+"Macomb","Oakland","Auto SOV","Eating Out",1446.229879534
+"Detroit","Oakland","Auto 2 Person","Maintenance",8056.275888902
+"Macomb","Macomb","Walk","Shop",10742.90852885
+"Oakland","Detroit","Auto 2 Person","Shop",5036.085051288
+"Detroit","Macomb","Auto SOV","University",1684.6438839
+"Macomb","Detroit","Auto SOV","University",1394.4121196
+"Detroit","Detroit","Auto 3+ Person","Eating Out",5042.2672609
+"Macomb","Macomb","Walk","Maintenance",11003.3293505665
+"Detroit","Detroit","Auto 3+ Person","Maintenance",46206.3567705071
+"Detroit","Detroit","Auto 3+ Person","Work-based",5897.792488951
+"Macomb","Macomb","Walk","Work",5107.35137871
+"Macomb","Wayne","Auto 2 Person","Maintenance",4812.66857841834
+"Wayne","Wayne","Walk","Visiting",14229.850840917
+"Macomb","Washtenaw","Auto 2 Person","Work",251.301992655
+"Washtenaw","Macomb","Auto 2 Person","Work",251.301992655
+"Macomb","Oakland","Auto 3+ Person","Work",913.597894309
+"Oakland","Macomb","Auto 3+ Person","Work",1114.363866849
+"Oakland","Detroit","Auto 2 Person","Discretionary",5834.73006574016
+"St. Clair","St. Clair","Walk-Transit","Shop",846.5419758
+"Washtenaw","Washtenaw","Walk-Transit","Work",14599.0907435533
+"Washtenaw","Washtenaw","Walk","School",6361.16413584
+"Oakland","Oakland","Auto 3+ Person","Shop",34589.1175575864
+"St. Clair","Oakland","Auto 2 Person","Visiting",136.002438563
+"Oakland","St. Clair","Auto 2 Person","Visiting",136.002438563
+"Detroit","Wayne","Walk-Transit","Work",3286.0863029021
+"Wayne","Detroit","Walk-Transit","Work",1505.743201473
+"Detroit","Oakland","Auto SOV","Shop",6898.07133419
+"Oakland","Detroit","Auto SOV","Shop",7124.671950152
+"Livingston","Livingston","Auto 2 Person","University",3657.866006179
+"Monroe","Monroe","Walk-Transit","Work",1618.65705555
+"Macomb","Detroit","Auto 3+ Person","Eating Out",389.481690462
+"Detroit","Macomb","Auto 3+ Person","Eating Out",501.894085723
+"Macomb","Detroit","Auto 3+ Person","Visiting",906.289400677
+"Detroit","Macomb","Auto 3+ Person","Visiting",1185.242217022
+"Washtenaw","Washtenaw","Walk","Maintenance",7004.34507641488
+"Detroit","Wayne","Auto 3+ Person","Eating Out",603.443099555
+"Detroit","Oakland","Auto 2 Person","Escort",5801.14358469
+"Wayne","Detroit","Auto 3+ Person","Discretionary",7391.628760647
+"Detroit","Wayne","Auto 3+ Person","Discretionary",9106.040963183
+"Monroe","Wayne","Auto SOV","Shop",626.145764565
+"Wayne","Monroe","Auto SOV","Shop",675.585792616
+"Oakland","Oakland","Bike/Moped","Maintenance",7389.32971689
+"Macomb","Macomb","Auto 3+ Person","Work-based",5770.98613252
+"Macomb","Macomb","Auto 2 Person","Work-based",10567.810780465
+"Oakland","Oakland","Bike/Moped","Visiting",704.076896575
+"Oakland","Wayne","Auto 2 Person","Escort",4890.7563187682
+"Wayne","Oakland","Auto 2 Person","School",5555.430424456
+"Oakland","Wayne","Auto 2 Person","School",4672.834154972
+"Oakland","Detroit","Auto 3+ Person","Work",3276.107844633
+"Detroit","Oakland","Auto 3+ Person","Work",3176.048714146
+"Wayne","Livingston","School Bus","School",265.9169822
+"Livingston","Wayne","Auto 2 Person","School",265.9169822
+"Detroit","Detroit","Walk-Transit","Work",15759.5457301217
+"Livingston","Detroit","Auto SOV","Work-based",83.5140898
+"Detroit","Livingston","Auto SOV","Work-based",83.5140898
+"Oakland","Detroit","Auto 2 Person","Escort",1381.212510051
+"Detroit","Oakland","Auto SOV","University",4302.303481019
+"Oakland","Detroit","Auto SOV","University",4931.852834425
+"Oakland","Oakland","Walk","Eating Out",13157.780929535
+"Wayne","Oakland","School Bus","Visiting",793.1107939
+"Oakland","Wayne","School Bus","Visiting",793.1107939
+"Wayne","Oakland","School Bus","School",2262.993055692
+"Oakland","Wayne","School Bus","School",1684.452386084
+"Oakland","Oakland","Auto 3+ Person","University",8308.501216842
+"Monroe","Monroe","Auto 3+ Person","Work-based",58.337005335
+"Wayne","Wayne","Walk-Transit","Maintenance",5451.363953005
+"Wayne","Detroit","Auto SOV","University",6276.757676611
+"Wayne","Monroe","Auto 2 Person","Escort",242.697145322
+"Wayne","Oakland","Auto SOV","Eating Out",2041.9186011821
+"Oakland","Wayne","Auto SOV","Eating Out",2357.104834047
+"Washtenaw","Washtenaw","Auto 3+ Person","Work-based",2807.712442223
+"Oakland","Wayne","Auto 2 Person","Work-based",1231.0708302712
+"Detroit","Oakland","Auto 2 Person","Discretionary",3081.68797301316
+"Wayne","Detroit","Auto 2 Person","Shop",9544.852202882
+"Detroit","Wayne","Auto 2 Person","Shop",11296.337236017
+"Washtenaw","Washtenaw","Walk","University",26298.476841782
+"Detroit","Washtenaw","Auto 3+ Person","Work",383.74805081112
+"Wayne","Detroit","Auto 3+ Person","Visiting",416.627191967
+"Wayne","Detroit","Auto 3+ Person","Shop",8756.032224191
+"Detroit","Wayne","Auto 3+ Person","Shop",1363.92777417
+"Detroit","Oakland","Auto 3+ Person","Maintenance",1950.073662462
+"Oakland","Detroit","Auto 3+ Person","Maintenance",1546.157289879
+"St. Clair","Macomb","Auto 2 Person","Visiting",652.607765622
+"Macomb","St. Clair","Auto 2 Person","Visiting",844.71072491
+"Macomb","Macomb","Walk-Transit","Maintenance",2657.009301949
+"Wayne","Washtenaw","Auto 2 Person","Work",7611.4070795
+"Oakland","Detroit","Auto SOV","Escort",3601.231081112
+"Detroit","Detroit","Auto 2 Person","Visiting",16550.03220053
+"Wayne","Detroit","Auto 2 Person","Work",17541.456788498
+"Detroit","Macomb","Auto 3+ Person","Maintenance",698.697524891
+"Macomb","Detroit","Walk","Maintenance",56.8185866
+"Wayne","Oakland","Auto SOV","Visiting",2443.719472908
+"Detroit","Oakland","Auto 2 Person","Shop",5531.360315369
+"Detroit","Detroit","Walk","Eating Out",12499.060467866
+"St. Clair","St. Clair","Walk-Transit","Work",180.012178555
+"St. Clair","St. Clair","Walk-Transit","Work-based",31.054015755
+"Macomb","Wayne","Auto 2 Person","Work",7671.779403104
+"Macomb","Detroit","Auto 2 Person","University",801.4877597
+"Detroit","Macomb","Auto 2 Person","School",4442.747721992
+"Macomb","Detroit","Auto 2 Person","School",5114.369989992
+"Livingston","Oakland","Auto 3+ Person","Work-based",157.936257071
+"Oakland","Livingston","Auto 3+ Person","Work-based",157.936257071
+"Wayne","Wayne","Auto 3+ Person","Work-based",11005.933695919
+"Macomb","Macomb","Walk","Eating Out",13080.962619021
+"Detroit","Oakland","Auto 3+ Person","Shop",4569.238240596
+"Oakland","Detroit","Auto 3+ Person","Shop",1987.637974224
+"Detroit","Oakland","Auto 3+ Person","Discretionary",3087.825847626
+"St. Clair","Oakland","Auto SOV","Maintenance",667.97786091
+"Oakland","St. Clair","Auto SOV","Maintenance",669.78261815
+"Livingston","Livingston","Walk","Maintenance",775.28977547
+"Wayne","Monroe","Auto 3+ Person","Discretionary",772.462701884
+"Monroe","Wayne","Auto 3+ Person","Discretionary",636.654108719
+"Detroit","Oakland","Auto SOV","Eating Out",1153.540384511
+"Oakland","Detroit","Auto SOV","Eating Out",1153.540384511
+"Oakland","Oakland","Auto 3+ Person","Visiting",22039.928696294
+"Oakland","Livingston","Auto 2 Person","Discretionary",2148.650400223
+"Wayne","Oakland","Auto 2 Person","Eating Out",2646.5050306112
+"Oakland","Wayne","Auto 2 Person","Eating Out",2268.4768405463
+"Livingston","Livingston","Auto SOV","Work-based",4160.636553354
+"Macomb","St. Clair","Auto SOV","Discretionary",1528.254531631
+"St. Clair","Macomb","Auto SOV","Discretionary",1737.725287809
+"Detroit","Oakland","Auto 2 Person","School",4940.3112914
+"Oakland","Detroit","Auto 2 Person","School",5310.7959837
+"Oakland","Wayne","Auto 3+ Person","Discretionary",7992.410504691
+"Wayne","Washtenaw","Auto 3+ Person","Discretionary",3461.811940398
+"Washtenaw","Wayne","Auto 3+ Person","Discretionary",2577.859369017
+"Wayne","Washtenaw","Auto 3+ Person","Work",918.095634872
+"Washtenaw","Oakland","Auto 3+ Person","Work",706.41740189152
+"Washtenaw","Oakland","Auto 3+ Person","Discretionary",2239.869774145
+"Livingston","Macomb","Auto 2 Person","Maintenance",672.114461625
+"Macomb","Livingston","Auto 2 Person","Maintenance",42.677580225
+"Detroit","Wayne","Walk-Transit","Discretionary",1474.153204833
+"Wayne","Detroit","Walk-Transit","Discretionary",1286.569356878
+"Detroit","Oakland","Auto SOV","School",421.026832892
+"Oakland","Detroit","Auto SOV","School",421.026832892
+"Detroit","Oakland","School Bus","School",231.4639896
+"Oakland","Detroit","School Bus","School",231.4639896
+"Detroit","Wayne","Walk","Shop",1365.7625817
+"Wayne","Detroit","Walk","Shop",1153.939508
+"Detroit","Detroit","Walk-Transit","School",8811.6212444
+"Macomb","Macomb","Walk-Transit","University",482.4469744
+"Monroe","Washtenaw","Auto 2 Person","Discretionary",441.911076404
+"Washtenaw","Monroe","Auto 2 Person","Discretionary",540.739057954
+"Detroit","Macomb","Auto 3+ Person","Escort",5452.864490777
+"Macomb","Detroit","Auto 3+ Person","Escort",5126.31741707868
+"Detroit","Macomb","Auto 3+ Person","School",7448.063071716
+"Macomb","Detroit","Auto 3+ Person","School",6296.303215416
+"Wayne","Oakland","Auto 3+ Person","Shop",825.935622778
+"Oakland","Wayne","Auto 3+ Person","Shop",4450.20841335
+"Detroit","Detroit","Walk-Transit","Visiting",3706.088859794
+"Wayne","Wayne","KNR-Transit","Work",2029.0966395
+"Detroit","Detroit","Bike/Moped","Work",13795.43589134
+"Detroit","Wayne","Auto 2 Person","School",9301.0710435
+"Wayne","Macomb","Auto 2 Person","Maintenance",3849.19565834834
+"Washtenaw","Washtenaw","Walk","Eating Out",4738.03165454492
+"Washtenaw","Wayne","Auto 2 Person","Maintenance",4896.963319386
+"Wayne","Washtenaw","Auto 2 Person","Maintenance",5886.682542068
+"Detroit","Detroit","Walk","Escort",19588.499439256
+"Detroit","Oakland","Walk","Shop",760.4592818
+"Oakland","Detroit","Walk","Shop",760.4592818
+"Detroit","Oakland","Auto SOV","Escort",1092.596709851
+"Washtenaw","Wayne","Auto SOV","Escort",259.617888629
+"Wayne","Washtenaw","Auto SOV","Escort",164.018474523
+"Washtenaw","Wayne","Auto SOV","Visiting",808.222316593
+"Wayne","Washtenaw","Auto SOV","Visiting",1159.57716112
+"Wayne","Monroe","Auto 2 Person","Maintenance",406.102840935
+"Washtenaw","Monroe","Auto 2 Person","School",760.024643988
+"Monroe","Washtenaw","Auto 2 Person","School",966.518356488
+"Livingston","Wayne","Auto 2 Person","Discretionary",1564.201607794
+"Detroit","Oakland","Auto 3+ Person","University",3237.256816109
+"Wayne","Detroit","Auto 2 Person","University",1782.118643538
+"Detroit","Wayne","Auto 2 Person","University",2129.013191938
+"Detroit","Washtenaw","Auto 2 Person","Work",1361.001429301
+"Oakland","Wayne","Walk","Eating Out",323.0604063
+"Wayne","Oakland","Walk","Eating Out",323.0604063
+"Washtenaw","Wayne","Auto SOV","Shop",3349.509815117
+"Wayne","Washtenaw","Auto SOV","Shop",3092.225643817
+"Oakland","Washtenaw","Auto SOV","Work-based",139.85465991
+"Oakland","Washtenaw","Auto SOV","Maintenance",1764.676618164
+"Washtenaw","Washtenaw","Auto 2 Person","University",11674.647897622
+"Washtenaw","Washtenaw","Auto 3+ Person","University",5725.33864404
+"Washtenaw","Wayne","Auto 2 Person","Escort",1398.595362804
+"Wayne","Washtenaw","Auto 3+ Person","Escort",2574.942143964
+"Washtenaw","Wayne","Auto 3+ Person","School",2298.7497796
+"Wayne","Washtenaw","Auto 3+ Person","School",2474.778267916
+"Macomb","Macomb","Walk","Work-based",1900.304936668
+"Oakland","Washtenaw","Auto 2 Person","Maintenance",1417.544972216
+"Livingston","Wayne","Auto 2 Person","Maintenance",2520.750305796
+"Washtenaw","Detroit","Auto 3+ Person","Work",190.179785676
+"Washtenaw","Washtenaw","Walk","Escort",5595.590005352
+"Oakland","Detroit","KNR-Transit","Visiting",2130.6192925
+"Wayne","Detroit","Bike/Moped","Work",275.07494019
+"Detroit","Wayne","Bike/Moped","Work",172.51319379
+"Detroit","Wayne","Auto 2 Person","Work-based",3486.845648842
+"Wayne","Detroit","Auto 2 Person","Work-based",3223.054544692
+"Wayne","Oakland","Auto 2 Person","Work-based",910.003280888
+"Wayne","Wayne","Walk","Work-based",6873.702520876
+"Macomb","Wayne","Bike/Moped","Discretionary",1046.8907285
+"Wayne","Macomb","Bike/Moped","Discretionary",1046.8907285
+"Washtenaw","Washtenaw","School Bus","Work",1200.3633406
+"Monroe","Washtenaw","Auto 3+ Person","Work",431.515432494
+"Washtenaw","Monroe","Auto 3+ Person","Work",566.578302286
+"Oakland","Macomb","Auto 2 Person","School",2539.620822884
+"Macomb","Oakland","Auto 2 Person","School",2700.181880332
+"Macomb","Macomb","Bike/Moped","Work",3200.83513848
+"Wayne","Oakland","Auto 3+ Person","Discretionary",3091.914625319
+"Oakland","Detroit","Auto 3+ Person","Discretionary",2845.930641359
+"Oakland","Wayne","Auto SOV","Escort",2241.256374094
+"Oakland","Wayne","Auto SOV","School",2410.282174832
+"Wayne","Oakland","Auto SOV","School",2410.282174832
+"Washtenaw","Monroe","Auto 2 Person","Work",669.264268585
+"Wayne","Detroit","Auto 2 Person","School",10174.838701464
+"Washtenaw","Wayne","School Bus","School",379.16768654
+"Wayne","Washtenaw","Auto 2 Person","School",1773.795321372
+"Washtenaw","Wayne","Auto 2 Person","Work",7266.665721914
+"Oakland","Detroit","Auto 2 Person","Eating Out",4501.63344464
+"Detroit","Oakland","Auto 3+ Person","Eating Out",1512.1137298
+"Oakland","Detroit","Auto 3+ Person","School",7259.467562016
+"Detroit","Oakland","Auto 3+ Person","School",6188.068962216
+"Macomb","Detroit","Auto 3+ Person","Discretionary",7027.274465939
+"Detroit","Macomb","Auto 3+ Person","Discretionary",7567.448028255
+"Wayne","Monroe","Auto SOV","Discretionary",675.714822524
+"Monroe","Wayne","Auto SOV","Discretionary",691.156280294
+"Detroit","Macomb","Auto SOV","Visiting",1414.076307574
+"Oakland","Oakland","Bike/Moped","School",2561.347508144
+"Macomb","Detroit","Auto 2 Person","Eating Out",1748.799688075
+"Detroit","Macomb","Auto 2 Person","Eating Out",1636.387292814
+"Macomb","Oakland","School Bus","School",1369.523541
+"Oakland","Macomb","School Bus","School",2568.2531046
+"Macomb","St. Clair","Auto 2 Person","Eating Out",2297.227141049
+"St. Clair","Macomb","Auto 2 Person","Eating Out",2860.605444019
+"Macomb","Oakland","Auto SOV","University",4533.768655753
+"Oakland","Macomb","Auto SOV","University",5187.061682254
+"St. Clair","St. Clair","Bike/Moped","Shop",1773.584063498
+"St. Clair","St. Clair","Bike/Moped","Discretionary",2214.902119453
+"Oakland","Washtenaw","Auto SOV","School",384.015139776
+"Washtenaw","Oakland","Auto SOV","School",384.015139776
+"Wayne","Monroe","Auto 2 Person","Visiting",1169.312542673
+"Monroe","Wayne","Auto 2 Person","Visiting",985.855450077
+"Washtenaw","Washtenaw","Walk-Transit","Work-based",935.8427796384
+"Wayne","Monroe","Auto 2 Person","Shop",903.88469203
+"Monroe","Wayne","Auto 2 Person","Shop",955.898032956
+"Macomb","Macomb","Walk-Transit","School",2847.3836429
+"Macomb","Detroit","Walk-Transit","School",2937.4218175
+"Wayne","Oakland","Auto 3+ Person","School",5828.974325592
+"Wayne","Detroit","Auto 3+ Person","Maintenance",5653.540481083
+"Detroit","Wayne","Auto 3+ Person","Maintenance",5499.18079681
+"Oakland","Wayne","Auto 3+ Person","Escort",1083.47509611
+"Livingston","Oakland","Auto SOV","Escort",2279.735366925
+"Washtenaw","Washtenaw","Auto SOV","School",2583.540035252
+"Oakland","Oakland","Walk-Transit","Eating Out",249.359863225
+"Oakland","Macomb","Auto SOV","Work-based",2842.881900729
+"Wayne","Wayne","Bike/Moped","Escort",4856.366495792
+"Washtenaw","Washtenaw","Walk-Transit","School",1643.689271104
+"Wayne","Macomb","Auto 3+ Person","School",2258.143048232
+"Livingston","Livingston","Walk","Work-based",210.586325402
+"Livingston","Livingston","Auto 3+ Person","University",1468.521277872
+"St. Clair","Macomb","Auto SOV","Visiting",431.805439805
+"Macomb","Wayne","Auto SOV","Visiting",1715.417686754
+"Macomb","Wayne","Auto 2 Person","Work-based",1169.714444824
+"Wayne","Macomb","Auto 2 Person","Work-based",1247.968121124
+"Detroit","Oakland","Auto 2 Person","University",2892.208219
+"Wayne","Livingston","Auto SOV","Escort",168.012736517
+"Wayne","Macomb","Auto SOV","Work-based",896.034199172
+"Washtenaw","Washtenaw","Auto 3+ Person","Shop",12673.757444633
+"Oakland","Oakland","Walk-Transit","Shop",2907.964504512
+"Macomb","Oakland","Auto SOV","Visiting",2655.5280671916
+"Oakland","Macomb","Auto SOV","Visiting",2367.4401352926
+"Washtenaw","Washtenaw","Bike/Moped","Maintenance",3248.6731144
+"Oakland","Oakland","Bike/Moped","Shop",2441.715167941
+"Wayne","Oakland","Auto 3+ Person","Escort",882.714214049
+"Wayne","Wayne","School Bus","Work",841.71879571
+"Wayne","Oakland","School Bus","Escort",359.920610805
+"Oakland","Wayne","School Bus","Escort",359.920610805
+"Wayne","Wayne","School Bus","Escort",4341.31468315
+"Wayne","Wayne","School Bus","Work-based",2879.36488644
+"Wayne","Oakland","School Bus","Work-based",359.920610805
+"Oakland","Wayne","School Bus","Work-based",359.920610805
+"Oakland","Oakland","Walk-Transit","University",587.781062376
+"Monroe","Oakland","Auto SOV","Discretionary",183.858614391
+"Macomb","Monroe","Auto SOV","Discretionary",13.143883701
+"Oakland","Oakland","School Bus","Escort",1989.0665527
+"Monroe","Wayne","Auto 2 Person","Work",3388.673755501
+"St. Clair","St. Clair","Auto SOV","University",1623.875985406
+"Wayne","Detroit","Walk-Transit","Shop",2654.084911803
+"Detroit","Wayne","Walk-Transit","Shop",2442.261838103
+"Oakland","Wayne","Auto SOV","Visiting",2026.297693594
+"Detroit","Detroit","Bike/Moped","Discretionary",2241.482801845
+"Monroe","Monroe","Walk","Escort",2177.019911108
+"St. Clair","St. Clair","Walk","University",875.1873402
+"Washtenaw","Washtenaw","Auto 3+ Person","Eating Out",9449.90894745312
+"Oakland","Oakland","Walk-Transit","Maintenance",762.028541435
+"Washtenaw","Wayne","Auto 3+ Person","Maintenance",3275.333891478
+"Wayne","Washtenaw","Auto 3+ Person","Maintenance",2981.694016318
+"Monroe","Monroe","Auto SOV","Visiting",4600.188496329
+"Macomb","Macomb","Bike/Moped","Visiting",1512.77947768
+"Oakland","Washtenaw","Auto 2 Person","Work",1179.2060303063
+"Macomb","Oakland","Auto 2 Person","Work-based",1280.3265017
+"Oakland","Macomb","Auto 2 Person","Work-based",1230.201423273
+"Wayne","Monroe","Auto 2 Person","Work-based",165.012254485
+"Monroe","Wayne","Auto 2 Person","Work-based",55.80328759
+"Detroit","Macomb","Walk-Transit","Discretionary",154.6723061
+"Macomb","Detroit","Walk-Transit","Discretionary",154.6723061
+"Oakland","Macomb","KNR-Transit","Work",138.66848394
+"Washtenaw","Wayne","Auto 3+ Person","Work",405.907538256
+"Oakland","Wayne","Auto 3+ Person","Eating Out",4005.294585328
+"Wayne","Oakland","Auto 3+ Person","Eating Out",3942.452628128
+"Livingston","Wayne","Auto SOV","Shop",195.165378752
+"Detroit","Wayne","Auto SOV","Work-based",2826.3730536262
+"Washtenaw","Monroe","Auto 2 Person","Shop",430.479704797
+"Monroe","Washtenaw","Auto 2 Person","Shop",436.844644297
+"St. Clair","St. Clair","Auto 3+ Person","Eating Out",4378.917947962
+"Oakland","Macomb","Auto 2 Person","Escort",2028.467686901
+"Monroe","Detroit","Auto 2 Person","Discretionary",139.82591918
+"Detroit","Monroe","Auto SOV","Discretionary",311.29723693
+"St. Clair","Wayne","Auto 2 Person","Escort",375.395143939
+"Wayne","Macomb","Auto 2 Person","Escort",3060.151519477
+"St. Clair","St. Clair","Bike/Moped","Maintenance",429.0866868
+"Monroe","Monroe","Walk-Transit","University",155.5906943
+"Monroe","Monroe","Auto 2 Person","University",1749.946463264
+"Macomb","Wayne","Auto 3+ Person","Discretionary",280.716476916
+"Macomb","Wayne","Auto 2 Person","Discretionary",619.930442419
+"Macomb","Wayne","Auto 3+ Person","School",1229.764149932
+"Macomb","Oakland","Auto 3+ Person","Shop",1761.205890118
+"Livingston","Monroe","Auto SOV","Visiting",310.638661752
+"Monroe","Livingston","Auto SOV","Visiting",310.638661752
+"Livingston","Livingston","Auto 3+ Person","Eating Out",1368.69147013
+"Wayne","Detroit","Auto SOV","Work-based",2488.452800676
+"Oakland","Detroit","School Bus","Discretionary",75.8991531
+"Detroit","Detroit","School Bus","Discretionary",75.8991531
+"Detroit","Oakland","School Bus","Discretionary",75.8991531
+"Oakland","Detroit","Auto 2 Person","Work-based",1152.707423759
+"Detroit","Oakland","Auto 2 Person","Work-based",2124.667353725
+"Oakland","Detroit","PNR-Transit","Work",360.97390581
+"Detroit","Oakland","PNR-Transit","Work",277.84506939
+"Oakland","Wayne","Auto 3+ Person","Work",2092.701514111
+"Wayne","Oakland","Auto 3+ Person","Work",2084.90972859376
+"St. Clair","St. Clair","Auto 2 Person","University",3014.131362236
+"Oakland","Macomb","Auto 2 Person","University",1294.142087224
+"Macomb","Oakland","Auto 2 Person","University",1161.471264924
+"Wayne","Washtenaw","Auto 2 Person","Shop",3426.35181236586
+"Wayne","Washtenaw","Auto 2 Person","Escort",649.57464131
+"Washtenaw","Wayne","Auto 2 Person","Visiting",2824.020665717
+"Wayne","Livingston","Auto 2 Person","Maintenance",1555.631137134
+"Livingston","Livingston","Auto 3+ Person","Work-based",2859.864772298
+"Macomb","Livingston","Auto SOV","Work",1085.102050084
+"Oakland","Macomb","Auto 3+ Person","Shop",1115.594339747
+"Livingston","Washtenaw","Auto SOV","University",606.5260762
+"Washtenaw","Livingston","Auto SOV","University",606.5260762
+"Wayne","Detroit","Walk","Discretionary",383.154881426
+"Washtenaw","Washtenaw","KNR-Transit","Work",548.390791179
+"Macomb","Oakland","Auto 2 Person","Escort",1633.964093521
+"Wayne","Detroit","Auto 3+ Person","Work-based",545.341687065
+"Detroit","Wayne","Auto 3+ Person","Work-based",545.341687065
+"Washtenaw","Washtenaw","School Bus","University",4720.8117121
+"Macomb","Wayne","Auto 2 Person","Escort",2313.363196323
+"Wayne","Macomb","Auto SOV","Escort",1183.845740525
+"Oakland","Macomb","Auto 3+ Person","Maintenance",1489.660565035
+"Macomb","Oakland","Auto 3+ Person","Maintenance",1866.6081647
+"Oakland","Macomb","Auto 3+ Person","Discretionary",2452.375410587
+"Macomb","Oakland","Auto 3+ Person","Discretionary",2782.743511811
+"Detroit","Oakland","Bike/Moped","Maintenance",91.751961
+"Oakland","Detroit","KNR-Transit","Maintenance",91.751961
+"Oakland","Macomb","Walk-Transit","University",571.5599067
+"Macomb","Macomb","Walk","University",2634.027790795
+"Macomb","Oakland","Walk-Transit","University",571.5599067
+"Monroe","Monroe","School Bus","University",1654.489095044
+"Washtenaw","Detroit","Auto 3+ Person","Shop",333.5417224
+"Washtenaw","Washtenaw","Walk-Transit","Visiting",1412.1655874
+"Washtenaw","Wayne","Auto 2 Person","Shop",4641.47134550086
+"Livingston","Livingston","Bike/Moped","Visiting",314.498453104
+"Wayne","Wayne","Bike/Moped","Shop",452.878131468
+"Detroit","Wayne","Walk-Transit","Visiting",889.298732745
+"Wayne","Detroit","Walk-Transit","Visiting",727.4141918
+"Oakland","Livingston","Auto 2 Person","Shop",2382.08428092926
+"Livingston","Oakland","Auto 2 Person","Shop",2447.887253549
+"Oakland","Livingston","Auto 3+ Person","Shop",603.041900677
+"Livingston","Oakland","Auto 3+ Person","Shop",734.92512917408
+"Washtenaw","Wayne","Auto 2 Person","School",1671.966902448
+"St. Clair","St. Clair","Walk","Visiting",1608.5516196
+"Oakland","Detroit","Auto SOV","Work-based",1061.83091847
+"Macomb","Macomb","Bike/Moped","Shop",2656.803166036
+"Washtenaw","Oakland","Auto 2 Person","Shop",1415.645072315
+"Wayne","Detroit","Walk-Transit","University",3067.498527398
+"Detroit","Wayne","Walk-Transit","University",3067.498527398
+"Wayne","Wayne","Walk-Transit","University",1177.402212798
+"Monroe","Wayne","Auto 2 Person","Escort",503.864568488
+"Macomb","Macomb","Walk-Transit","Work",3194.30792562
+"Livingston","Livingston","Walk","Work",1651.953485086
+"Oakland","St. Clair","Auto SOV","Work",1724.621602897
+"Washtenaw","Livingston","Auto 2 Person","School",149.3648689
+"Monroe","Washtenaw","Auto 2 Person","Escort",655.802065106
+"Washtenaw","Monroe","Auto SOV","Escort",661.730596415
+"Monroe","Washtenaw","Walk","Escort",443.59509714
+"Washtenaw","Monroe","Auto 2 Person","Escort",516.094819299
+"Monroe","Washtenaw","Walk","Shop",1296.08770514
+"Washtenaw","Monroe","Walk","Shop",1296.08770514
+"Livingston","Livingston","Bike/Moped","Eating Out",168.332762325
+"Livingston","Livingston","Walk-Transit","Work-based",91.476204984
+"St. Clair","Detroit","Auto 2 Person","Work",239.272777118
+"Washtenaw","Wayne","Auto 2 Person","Discretionary",770.891433008
+"Wayne","Oakland","Auto 2 Person","University",2219.40011496
+"Oakland","Wayne","Auto 2 Person","University",706.99001476
+"Wayne","Washtenaw","Bike/Moped","Discretionary",165.604064072
+"Washtenaw","Wayne","Bike/Moped","Discretionary",165.604064072
+"Wayne","Detroit","Auto 2 Person","Eating Out",1006.46689155
+"Detroit","Wayne","Auto 2 Person","Eating Out",1006.46689155
+"Macomb","Macomb","Walk-Transit","Shop",3550.207294976
+"Washtenaw","Washtenaw","Walk-Transit","Discretionary",1936.202129674
+"Macomb","Oakland","KNR-Transit","Maintenance",1639.74292902
+"Oakland","Macomb","KNR-Transit","Maintenance",1322.29674024
+"Monroe","Monroe","Auto SOV","University",4278.283189244
+"Monroe","Monroe","Auto 3+ Person","University",1597.404032842
+"Monroe","Wayne","Auto SOV","University",530.6170986
+"Wayne","Monroe","Auto SOV","University",243.732507907
+"Wayne","Monroe","Auto 2 Person","University",286.884590693
+"Washtenaw","Monroe","School Bus","School",285.468729
+"Livingston","Washtenaw","Auto SOV","Visiting",299.681032814
+"St. Clair","Macomb","Auto 3+ Person","Eating Out",200.609962296
+"Macomb","St. Clair","Auto 3+ Person","Eating Out",200.609962296
+"St. Clair","Detroit","Auto 3+ Person","Escort",108.6995425
+"St. Clair","Detroit","Auto 3+ Person","Work",41.52645
+"St. Clair","Detroit","Auto SOV","Work",569.68395348
+"Detroit","Macomb","Auto 2 Person","University",857.8323699
+"Washtenaw","Wayne","Auto SOV","Eating Out",157.856722795
+"Wayne","Monroe","Auto SOV","Eating Out",139.8020833
+"Monroe","Washtenaw","Auto SOV","Eating Out",100.6376008
+"Washtenaw","Oakland","Auto 2 Person","University",1767.887438792
+"Oakland","Washtenaw","Auto 2 Person","Escort",66.9628868
+"Oakland","Washtenaw","Auto 2 Person","School",102.2761681
+"Oakland","Detroit","Auto 3+ Person","University",3076.581534888
+"Livingston","Washtenaw","Auto SOV","Shop",797.717963112
+"Washtenaw","Livingston","Auto SOV","Shop",830.891233427
+"Macomb","Macomb","Walk","Escort",6752.961446865
+"Wayne","Livingston","Auto 2 Person","Shop",343.596439515
+"Livingston","Wayne","Auto 2 Person","Shop",343.596439515
+"Wayne","Livingston","Auto SOV","Work-based",87.40114303
+"Wayne","Wayne","Walk-Transit","Work",4334.16372056
+"Wayne","Washtenaw","Auto 2 Person","Discretionary",896.412879596
+"Oakland","Oakland","Walk-Transit","Discretionary",1121.976243098
+"Oakland","Washtenaw","Auto 2 Person","Discretionary",597.89886377
+"Washtenaw","Oakland","Auto 2 Person","Discretionary",402.879275152
+"Monroe","Wayne","Auto 2 Person","Discretionary",641.64304288
+"Wayne","Monroe","Auto 2 Person","Discretionary",617.501945152
+"St. Clair","Oakland","Auto SOV","Discretionary",25.400426
+"Washtenaw","Wayne","Auto 3+ Person","Escort",1774.31424893
+"Monroe","Monroe","Walk-Transit","Maintenance",4074.40046815
+"Detroit","St. Clair","Auto SOV","Work",327.55755972
+"Wayne","Macomb","Auto 2 Person","Eating Out",1296.413938984
+"Macomb","Wayne","Auto 2 Person","Eating Out",1363.297054787
+"Livingston","Wayne","Auto 2 Person","Eating Out",325.26220442
+"Wayne","Livingston","Auto 2 Person","Eating Out",325.26220442
+"Livingston","Detroit","Auto SOV","Maintenance",80.133882488
+"Detroit","Livingston","Auto SOV","Maintenance",80.133882488
+"Detroit","Detroit","School Bus","Visiting",214.0415328
+"Wayne","Oakland","Auto 3+ Person","Work-based",233.299150815
+"Washtenaw","Wayne","Auto 3+ Person","Eating Out",239.991787233
+"Wayne","Washtenaw","Auto 2 Person","Eating Out",373.316556631
+"Detroit","Macomb","Walk-Transit","Work",543.736187517
+"Macomb","Detroit","Walk-Transit","Work",640.949846577
+"Washtenaw","Oakland","School Bus","Work-based",76.9240826
+"Wayne","Detroit","Auto 3+ Person","Work",2907.092744195
+"Oakland","Oakland","School Bus","University",759.9597614
+"Oakland","St. Clair","Auto 2 Person","Shop",1300.4060273
+"Oakland","Monroe","Auto SOV","Work-based",256.44410169
+"Monroe","Oakland","Auto SOV","Work-based",256.44410169
+"Detroit","Oakland","Auto 2 Person","Eating Out",3371.4103301
+"Macomb","Oakland","Walk-Transit","Maintenance",1278.3875478
+"Oakland","Macomb","Walk-Transit","Maintenance",1278.3875478
+"Livingston","Monroe","Auto SOV","Discretionary",30.332203682
+"Monroe","Livingston","Auto SOV","Discretionary",30.332203682
+"St. Clair","St. Clair","Auto 3+ Person","Work-based",1598.549470481
+"St. Clair","Oakland","Auto 2 Person","Discretionary",133.349073365
+"Oakland","St. Clair","Auto 2 Person","Discretionary",204.510807588
+"Monroe","Monroe","Walk","Work",597.027015775
+"Livingston","Oakland","Auto 3+ Person","Work",216.82012673
+"Washtenaw","Washtenaw","School Bus","Discretionary",895.3847259
+"Oakland","Macomb","Auto 2 Person","Visiting",2081.645752248
+"Macomb","Oakland","Auto 2 Person","Visiting",2438.512860324
+"Wayne","Oakland","Walk","Work-based",272.551288695
+"Oakland","Wayne","Walk","Work-based",272.551288695
+"St. Clair","St. Clair","Walk","Maintenance",1802.959233797
+"Monroe","Washtenaw","Auto 2 Person","Visiting",254.992661318
+"Monroe","Detroit","Auto SOV","Visiting",91.253996
+"Detroit","Monroe","Auto SOV","Visiting",91.253996
+"Oakland","Washtenaw","Auto 3+ Person","Discretionary",1464.847008033
+"Wayne","St. Clair","Auto SOV","Work",212.38156633
+"Livingston","Washtenaw","Auto 3+ Person","Work",219.51586248552
+"Oakland","Livingston","Auto 3+ Person","Work",187.73520176648
+"Washtenaw","Oakland","Auto 3+ Person","School",248.9637343
+"St. Clair","Macomb","Auto 2 Person","Discretionary",651.805244644
+"Macomb","St. Clair","Auto 2 Person","Discretionary",510.74954501
+"Livingston","Wayne","Auto 3+ Person","Maintenance",76.7551839
+"Wayne","Livingston","Auto 3+ Person","Maintenance",76.7551839
+"Washtenaw","Oakland","Auto 2 Person","Maintenance",55.547727165
+"Oakland","Oakland","Bike/Moped","Escort",2521.721710624
+"Washtenaw","Washtenaw","Bike/Moped","Work-based",370.761456096
+"Wayne","Oakland","Auto 3+ Person","Maintenance",1032.605464409
+"Oakland","Wayne","Auto 3+ Person","Maintenance",1638.763388356
+"Macomb","Macomb","Bike/Moped","School",4424.7577538
+"Monroe","Monroe","Bike/Moped","Discretionary",976.566447926
+"Wayne","Oakland","KNR-Transit","Work",69.036098145
+"Oakland","Wayne","Walk-Transit","Work",69.036098145
+"Washtenaw","Monroe","Auto SOV","Shop",554.423442513
+"Monroe","Washtenaw","Auto SOV","Shop",532.663228481
+"Macomb","Wayne","Auto SOV","University",953.9931239
+"Wayne","Macomb","Auto SOV","University",235.9538234
+"Detroit","Washtenaw","Auto 2 Person","Shop",787.149316
+"Wayne","Monroe","Auto 2 Person","Eating Out",603.510303383
+"Detroit","Detroit","KNR-Transit","Work",195.207714465
+"Wayne","Livingston","Auto 2 Person","Discretionary",358.382962047
+"Livingston","Livingston","School Bus","University",179.6965229
+"Monroe","Detroit","Auto SOV","Discretionary",54.13454214
+"Detroit","Detroit","Bike/Moped","Eating Out",847.418340826
+"Oakland","Wayne","Auto 3+ Person","Work-based",926.950899191
+"Monroe","Wayne","Auto 3+ Person","Work",225.24016303048
+"Wayne","Monroe","Auto 3+ Person","Work",241.37641351048
+"Monroe","Wayne","Auto 3+ Person","School",228.9167936
+"Wayne","Monroe","Auto 3+ Person","School",357.1655025
+"Macomb","Detroit","Auto 2 Person","Shop",4184.843300795
+"Washtenaw","Washtenaw","Bike/Moped","Eating Out",500.6892387
+"Washtenaw","Monroe","Auto SOV","Discretionary",499.416355507
+"Monroe","Washtenaw","Auto SOV","Discretionary",507.403233057
+"St. Clair","Macomb","Auto 3+ Person","Maintenance",309.0574593
+"Macomb","St. Clair","Auto 3+ Person","Maintenance",309.0574593
+"St. Clair","Wayne","Auto 3+ Person","Maintenance",279.8873052
+"Wayne","St. Clair","Auto 3+ Person","Maintenance",279.8873052
+"Wayne","Wayne","School Bus","Discretionary",4066.357835
+"Livingston","Washtenaw","Auto 2 Person","Shop",286.151090985
+"Macomb","St. Clair","Auto SOV","Visiting",414.848904514
+"Livingston","Wayne","Auto SOV","Visiting",71.574144065
+"Wayne","Livingston","Auto SOV","Visiting",71.574144065
+"Washtenaw","Detroit","Auto SOV","Discretionary",377.500661707
+"Washtenaw","Oakland","Walk","Shop",231.231755
+"Oakland","Washtenaw","Walk","Shop",231.231755
+"Oakland","Washtenaw","Auto 2 Person","Shop",1534.056783269
+"Detroit","Macomb","Auto 3+ Person","Shop",1118.397806596
+"Macomb","Wayne","Auto 3+ Person","Shop",242.8070597
+"Washtenaw","Oakland","Auto SOV","Eating Out",73.87144527
+"Oakland","Washtenaw","Auto SOV","Eating Out",73.87144527
+"Wayne","Monroe","Auto SOV","Work-based",289.308552855
+"Wayne","Macomb","Auto SOV","Visiting",1286.161467202
+"St. Clair","Livingston","Auto 2 Person","Work",25.73252136
+"Livingston","Macomb","Auto 2 Person","Work",46.19375607
+"Wayne","Washtenaw","Auto SOV","Eating Out",57.219121995
+"Monroe","Washtenaw","Auto 3+ Person","Shop",245.865907268
+"Washtenaw","Monroe","Auto 3+ Person","Shop",272.652655168
+"Monroe","Washtenaw","Auto 3+ Person","School",1050.740241
+"Washtenaw","Monroe","Auto 3+ Person","School",657.4220796
+"Monroe","Monroe","Walk","University",99.128967888
+"Livingston","Washtenaw","Auto 3+ Person","Maintenance",100.3435904
+"Washtenaw","Livingston","Auto 3+ Person","Maintenance",100.3435904
+"Washtenaw","Livingston","Auto 3+ Person","Shop",50.3551794
+"Detroit","Macomb","Auto 2 Person","Shop",3045.086948325
+"Monroe","Wayne","Auto 2 Person","Eating Out",411.204589303
+"Wayne","Washtenaw","Auto 2 Person","Visiting",2293.485231812
+"Oakland","Wayne","Auto 3+ Person","Visiting",332.952986602
+"Livingston","Macomb","KNR-Transit","Work",30.649406025
+"Wayne","Wayne","Bike/Moped","Eating Out",2079.895595274
+"Macomb","Wayne","Auto SOV","Escort",521.51633474
+"Detroit","Detroit","KNR-Transit","Maintenance",148.540634862
+"Oakland","Detroit","Auto 2 Person","University",2534.0849716
+"Detroit","Detroit","Bike/Moped","Shop",1246.497695012
+"Detroit","Detroit","KNR-Transit","Shop",276.2900061
+"Livingston","Detroit","Auto 2 Person","Discretionary",145.9045318
+"Detroit","Livingston","Auto 2 Person","Discretionary",145.9045318
+"Wayne","Livingston","Auto 2 Person","Escort",10.4339702
+"Livingston","Livingston","Auto 2 Person","Work-based",2618.549402979
+"Wayne","Monroe","Auto 3+ Person","Escort",135.23147749
+"Monroe","Wayne","Auto 2 Person","School",175.4028454
+"Monroe","Monroe","Bike/Moped","Work",255.53035452
+"Wayne","Detroit","Walk-Transit","Escort",740.764344317
+"Detroit","Wayne","Walk-Transit","Escort",2131.705428985
+"Monroe","Washtenaw","Auto SOV","Visiting",262.001314202
+"Washtenaw","Monroe","Auto SOV","Visiting",226.043819227
+"Oakland","Washtenaw","Auto 3+ Person","Work",469.429701892
+"Washtenaw","Livingston","Auto 3+ Person","Work",190.060449418
+"Monroe","Washtenaw","Auto SOV","Escort",115.897391334
+"Washtenaw","Monroe","Auto 2 Person","Visiting",77.105334518
+"Washtenaw","Livingston","Auto 2 Person","Shop",406.011138289
+"Washtenaw","Detroit","Auto SOV","Visiting",234.84726364
+"Oakland","Wayne","Auto 3+ Person","School",2937.614457084
+"Macomb","Detroit","Auto 3+ Person","Maintenance",641.878938291
+"Detroit","Macomb","Walk-Transit","School",238.5243413
+"Macomb","Detroit","Auto 3+ Person","Shop",712.491866619
+"Wayne","Detroit","Walk","School",306.1367623
+"Detroit","Wayne","Walk","School",306.1367623
+"St. Clair","St. Clair","Auto 2 Person","Work-based",1603.940556105
+"St. Clair","St. Clair","Bike/Moped","Work",1093.622171825
+"Detroit","Wayne","Walk-Transit","School",879.2204796
+"Wayne","Detroit","Walk-Transit","School",856.7023551
+"Livingston","Livingston","Walk","Shop",1646.545407935
+"Monroe","Washtenaw","School Bus","Discretionary",29.4624006
+"Washtenaw","Monroe","School Bus","Discretionary",29.4624006
+"Monroe","Monroe","Walk","Work-based",99.91934749
+"Macomb","Oakland","Auto 3+ Person","University",948.46510738
+"Oakland","Macomb","Auto 3+ Person","University",147.58217798
+"St. Clair","St. Clair","Auto 3+ Person","University",1919.195582444
+"Livingston","Livingston","Bike/Moped","School",124.435169
+"St. Clair","Oakland","Auto 2 Person","Maintenance",470.004904182
+"Oakland","St. Clair","Auto 2 Person","Maintenance",513.748166104
+"Oakland","Washtenaw","Auto SOV","Shop",129.887400215
+"Monroe","Monroe","Bike/Moped","University",256.581202365
+"Monroe","Oakland","Auto SOV","Visiting",43.494033346
+"Oakland","Monroe","Auto SOV","Visiting",43.494033346
+"Wayne","Wayne","Walk-Transit","Eating Out",423.6461474
+"Monroe","Wayne","Auto 3+ Person","Visiting",158.280442808
+"Wayne","Monroe","Auto 3+ Person","Visiting",139.093073908
+"Monroe","Detroit","Auto SOV","Maintenance",51.301994344
+"Detroit","Monroe","Auto SOV","Maintenance",51.301994344
+"Oakland","Monroe","Auto SOV","Discretionary",31.8453408
+"Monroe","Washtenaw","Auto SOV","University",443.475180775
+"Washtenaw","Monroe","Auto SOV","University",443.475180775
+"Monroe","Washtenaw","Auto 2 Person","University",128.695536936
+"Washtenaw","Monroe","Auto 2 Person","University",128.695536936
+"Monroe","Washtenaw","School Bus","School",149.3637061
+"Monroe","Oakland","Auto 2 Person","Work",116.223048134
+"Wayne","Monroe","Auto 2 Person","School",47.1541365
+"Washtenaw","Macomb","Auto SOV","Discretionary",70.32183564
+"Detroit","Detroit","PNR-Transit","University",188.8668831
+"Detroit","Washtenaw","KNR-Transit","University",106.2412899
+"Washtenaw","Detroit","KNR-Transit","University",106.2412899
+"Detroit","Oakland","Walk-Transit","University",97.7983923
+"Oakland","Detroit","Walk-Transit","University",97.7983923
+"Macomb","Detroit","Auto SOV","Eating Out",1037.513479617
+"Detroit","Macomb","Auto SOV","Eating Out",1037.513479617
+"Monroe","Detroit","Auto 2 Person","Maintenance",25.338176951
+"Oakland","Monroe","Auto 2 Person","Maintenance",175.234212731
+"Monroe","Monroe","Walk","Visiting",2396.594981506
+"St. Clair","St. Clair","Walk-Transit","Visiting",96.3048238
+"Oakland","Detroit","Auto 3+ Person","Eating Out",529.4538844
+"St. Clair","Detroit","Auto 2 Person","Eating Out",34.241331915
+"Detroit","Livingston","Auto 2 Person","Maintenance",166.717253955
+"Livingston","Detroit","Auto 2 Person","Maintenance",166.717253955
+"Monroe","Washtenaw","Auto SOV","Work-based",73.653887055
+"Washtenaw","Monroe","Auto SOV","Work-based",73.653887055
+"Monroe","Washtenaw","Auto 2 Person","Work-based",73.653887055
+"Livingston","Oakland","Auto SOV","University",574.074250386
+"Oakland","Livingston","Auto SOV","University",303.507314294
+"Monroe","Wayne","Auto 3+ Person","Shop",35.97954155
+"Wayne","Monroe","Auto 3+ Person","Shop",57.51215583
+"Wayne","Macomb","Auto 2 Person","Visiting",1088.159134319
+"Macomb","Wayne","Auto 2 Person","Visiting",423.365830919
+"Macomb","Wayne","Auto SOV","Work-based",713.915576635
+"Wayne","Macomb","Walk","Eating Out",332.7827643
+"Macomb","Wayne","Walk","Eating Out",332.7827643
+"Monroe","Washtenaw","Auto 2 Person","Eating Out",417.460730332
+"Washtenaw","Monroe","Auto 2 Person","Eating Out",388.956677032
+"Washtenaw","Monroe","Auto 3+ Person","Maintenance",609.680252912
+"Washtenaw","Oakland","Auto SOV","Escort",60.4397841
+"Macomb","Detroit","Auto 3+ Person","University",216.6618717
+"Detroit","Macomb","Auto 3+ Person","University",351.7197671
+"Detroit","Washtenaw","Auto 2 Person","Visiting",664.7933034
+"Livingston","Washtenaw","Auto 2 Person","University",341.675347524
+"Washtenaw","Livingston","Auto 2 Person","University",507.835760124
+"Monroe","Wayne","Auto 3+ Person","Maintenance",43.20513178
+"Monroe","Monroe","School Bus","Discretionary",66.386963
+"Monroe","Washtenaw","Auto 3+ Person","Maintenance",199.909083576
+"Monroe","Monroe","Bike/Moped","Visiting",61.7355276
+"Washtenaw","Monroe","Auto 3+ Person","Eating Out",28.5040533
+"Detroit","Macomb","KNR-Transit","Shop",92.0966687
+"Macomb","Detroit","Bike/Moped","Shop",92.0966687
+"Detroit","Detroit","Bike/Moped","University",3282.2757541
+"Detroit","Macomb","Auto 2 Person","Work-based",430.399459366
+"Macomb","Detroit","Auto 2 Person","Work-based",314.214257191
+"Macomb","Detroit","Walk-Transit","Maintenance",428.5496254
+"Detroit","Macomb","Walk-Transit","Maintenance",66.5325811
+"Detroit","Monroe","Auto SOV","University",46.631894328
+"Macomb","Washtenaw","Auto 3+ Person","Visiting",118.724700885
+"Detroit","Washtenaw","Auto SOV","Visiting",98.3372584
+"St. Clair","Oakland","Auto SOV","University",34.3216186
+"Oakland","St. Clair","Auto SOV","University",34.3216186
+"St. Clair","St. Clair","Bike/Moped","Escort",727.01473556
+"Monroe","Oakland","Auto 3+ Person","Work",19.671684724
+"Monroe","Monroe","School Bus","Visiting",103.3521524
+"Livingston","Wayne","Auto 3+ Person","Work",38.307942776
+"Wayne","Livingston","Auto 3+ Person","Work",38.307942776
+"Livingston","Wayne","Auto 3+ Person","Discretionary",72.1425496
+"Wayne","Livingston","Auto 3+ Person","Discretionary",72.1425496
+"Detroit","Oakland","Auto 3+ Person","Visiting",768.36930292
+"Oakland","Detroit","Auto 3+ Person","Visiting",768.36930292
+"Oakland","Washtenaw","Auto 2 Person","University",3210.205596892
+"Macomb","Washtenaw","Auto 2 Person","University",134.1508399
+"Washtenaw","Macomb","Auto 2 Person","University",134.1508399
+"Wayne","St. Clair","Auto 2 Person","Visiting",165.3056551
+"Detroit","Wayne","Bike/Moped","Work-based",1100.964000404
+"Wayne","Wayne","Bike/Moped","Work-based",1100.964000404
+"Wayne","Detroit","Bike/Moped","Work-based",1100.964000404
+"St. Clair","Macomb","Auto 2 Person","University",518.937206797
+"Macomb","St. Clair","Auto 2 Person","University",493.390235767
+"Monroe","Monroe","Bike/Moped","School",121.430829132
+"Detroit","Oakland","Walk-Transit","Escort",183.6228902
+"Oakland","Detroit","Walk-Transit","Escort",1402.320821368
+"Detroit","Oakland","Walk-Transit","School",450.6176607
+"Oakland","Detroit","Walk-Transit","School",450.6176607
+"Macomb","Wayne","Walk-Transit","Maintenance",151.897885329
+"Wayne","Macomb","Walk-Transit","Maintenance",151.897885329
+"Detroit","Detroit","Walk-Transit","Work-based",3191.961701462
+"Monroe","Oakland","Auto 2 Person","Shop",25.830828938
+"Oakland","Monroe","Auto 2 Person","Shop",25.830828938
+"Washtenaw","Wayne","School Bus","University",112.2100968
+"Wayne","Washtenaw","Walk","University",112.2100968
+"Livingston","Livingston","Walk-Transit","Work",50.2057563
+"Detroit","Oakland","Walk-Transit","Shop",237.958069604
+"Oakland","Detroit","Walk-Transit","Shop",237.958069604
+"Detroit","Livingston","Auto 2 Person","Eating Out",455.160401535
+"Livingston","Detroit","Auto 2 Person","Eating Out",455.160401535
+"St. Clair","St. Clair","Walk-Transit","Maintenance",600.209280148
+"St. Clair","St. Clair","KNR-Transit","Maintenance",421.0529374
+"Monroe","Wayne","Auto SOV","Work-based",164.754387735
+"Wayne","Macomb","Auto SOV","School",124.432531664
+"Macomb","Wayne","Auto SOV","School",124.432531664
+"Oakland","Detroit","Walk-Transit","Visiting",214.6672766
+"Detroit","Oakland","Walk-Transit","Visiting",214.6672766
+"Wayne","Detroit","Auto 3+ Person","Eating Out",641.637025115
+"Macomb","Macomb","Walk-Transit","Visiting",172.1306962
+"Wayne","Oakland","Bike/Moped","Visiting",291.4225472
+"Oakland","Wayne","Bike/Moped","Visiting",291.4225472
+"Wayne","Wayne","Bike/Moped","Visiting",883.197141632
+"Detroit","Macomb","Auto 2 Person","Visiting",308.427931177
+"Macomb","Detroit","Auto 2 Person","Visiting",587.380747522
+"Washtenaw","Detroit","Walk","Discretionary",175.192912
+"Washtenaw","Detroit","Auto 3+ Person","Maintenance",192.029186799
+"Monroe","Macomb","Auto SOV","Visiting",19.12160229
+"Macomb","Monroe","Auto SOV","Visiting",19.12160229
+"Detroit","Wayne","Walk","Discretionary",292.254724371
+"Wayne","Detroit","Auto SOV","School",373.295235716
+"Detroit","Wayne","Auto SOV","School",373.295235716
+"Monroe","Monroe","Walk-Transit","Escort",277.6914132
+"Wayne","Macomb","Auto 2 Person","University",486.9151397
+"St. Clair","Oakland","Auto 2 Person","Work",60.104717204
+"Oakland","St. Clair","Auto 2 Person","Work",87.995068628
+"St. Clair","Oakland","Auto 2 Person","University",169.6850634
+"Oakland","St. Clair","Auto 2 Person","University",169.6850634
+"Detroit","Detroit","KNR-Transit","School",198.2696586
+"Washtenaw","Washtenaw","Bike/Moped","Escort",622.176702856
+"Washtenaw","Washtenaw","Bike/Moped","School",1033.4969812
+"St. Clair","St. Clair","Walk-Transit","School",91.4631114
+"Oakland","Washtenaw","Auto SOV","Escort",91.461423392
+"Washtenaw","Oakland","Auto 2 Person","Escort",91.461423392
+"Oakland","Washtenaw","Auto SOV","University",299.027627599
+"Washtenaw","Oakland","Auto SOV","University",102.2498732
+"Oakland","Livingston","Auto 2 Person","University",396.617953684
+"Livingston","Oakland","Auto 2 Person","University",126.051017592
+"Oakland","Oakland","Bike/Moped","Eating Out",297.495699201
+"Macomb","Wayne","Auto 2 Person","University",463.2944561
+"Macomb","Oakland","Bike/Moped","Discretionary",65.1562084
+"Oakland","Macomb","Bike/Moped","Discretionary",65.1562084
+"St. Clair","St. Clair","Walk","Work-based",516.999697596
+"St. Clair","Wayne","Auto 2 Person","Work",51.701809215
+"Wayne","St. Clair","Auto 2 Person","Work",51.701809215
+"Wayne","Washtenaw","School Bus","School",330.0195767
+"Oakland","Detroit","Walk","Visiting",110.5320597
+"Detroit","Oakland","Walk","Visiting",110.5320597
+"Macomb","Oakland","Auto 3+ Person","Visiting",849.6541745
+"Oakland","Monroe","Auto 2 Person","Work",94.462834102
+"Macomb","Oakland","Walk","Shop",54.614363781
+"Oakland","Macomb","Auto 3+ Person","Work-based",1548.731536064
+"Washtenaw","Wayne","Bike/Moped","Eating Out",247.9454738
+"Wayne","Washtenaw","Walk-Transit","Eating Out",247.9454738
+"Wayne","Detroit","Walk-Transit","Work-based",170.0515990341
+"Oakland","Washtenaw","Auto 2 Person","Visiting",75.133101817
+"Wayne","Washtenaw","Auto 3+ Person","Work-based",344.046680565
+"Washtenaw","Wayne","Auto 2 Person","Work-based",260.7547425
+"Washtenaw","Detroit","Auto 2 Person","Maintenance",130.0095288
+"Macomb","Macomb","Bike/Moped","Maintenance",835.074481266
+"Livingston","Livingston","Walk-Transit","University",79.914321626
+"Livingston","Livingston","Walk","University",209.079415045
+"Detroit","Oakland","Walk-Transit","Discretionary",492.7915946
+"Oakland","Detroit","Walk-Transit","Discretionary",492.7915946
+"St. Clair","Macomb","School Bus","Discretionary",143.94516963456
+"Livingston","Wayne","Auto SOV","Discretionary",84.720869993
+"Wayne","Livingston","Auto SOV","Discretionary",84.720869993
+"Oakland","Monroe","Auto SOV","University",50.8855332
+"Monroe","Oakland","Auto SOV","University",50.8855332
+"Oakland","Macomb","Walk-Transit","Discretionary",141.5632446
+"Macomb","Oakland","Walk-Transit","Discretionary",141.5632446
+"Oakland","Detroit","PNR-Transit","Discretionary",64.42591
+"Washtenaw","Detroit","Auto 2 Person","Discretionary",236.538762524
+"Oakland","Oakland","School Bus","Discretionary",756.0748981
+"Macomb","Oakland","Auto 3+ Person","Work-based",1469.878467119
+"Macomb","Macomb","School Bus","Visiting",745.885005552
+"St. Clair","St. Clair","Bike/Moped","Visiting",167.7222716
+"Monroe","Detroit","Auto SOV","University",15.3678576
+"Wayne","Washtenaw","PNR-Transit","Work",428.300026539
+"Monroe","Livingston","Auto 2 Person","Work",17.509114665
+"Livingston","Monroe","Auto 2 Person","Work",17.509114665
+"Detroit","Oakland","Auto SOV","Work-based",834.919867805
+"Washtenaw","Monroe","Walk-Transit","Discretionary",206.1225233
+"Monroe","Washtenaw","Walk-Transit","Discretionary",206.1225233
+"Livingston","Washtenaw","Auto 2 Person","Eating Out",659.176800287
+"Washtenaw","Livingston","Auto 2 Person","Eating Out",659.176800287
+"Oakland","Oakland","KNR-Transit","Discretionary",334.7391022
+"Oakland","Oakland","KNR-Transit","Maintenance",228.3334004
+"Oakland","Macomb","Walk-Transit","Shop",152.528737108
+"Macomb","Oakland","Walk-Transit","Shop",152.528737108
+"Oakland","St. Clair","Auto 2 Person","School",28.2085352
+"Washtenaw","Wayne","Auto 2 Person","Eating Out",211.847929098
+"St. Clair","Washtenaw","Auto 2 Person","Maintenance",55.189384
+"Washtenaw","St. Clair","Auto 2 Person","Maintenance",55.189384
+"Oakland","Oakland","School Bus","Eating Out",125.6839144
+"Detroit","Monroe","Auto 2 Person","Work",391.194632213
+"St. Clair","Detroit","Auto 2 Person","Maintenance",65.258020065
+"Detroit","St. Clair","Auto 3+ Person","Maintenance",454.6631986
+"St. Clair","Livingston","Auto SOV","Maintenance",244.16474694
+"Livingston","St. Clair","Auto SOV","Maintenance",244.16474694
+"Oakland","Livingston","Auto 3+ Person","Visiting",183.73433618
+"Livingston","Oakland","Auto 3+ Person","Visiting",215.72224906
+"Oakland","Oakland","Bike/Moped","Work",869.732875322
+"Oakland","Oakland","School Bus","Maintenance",183.9666318
+"Oakland","Wayne","Auto 3+ Person","University",407.212624708
+"St. Clair","Detroit","Auto 3+ Person","Maintenance",406.5107867
+"Washtenaw","Wayne","Auto 3+ Person","Visiting",494.1784803
+"Detroit","Macomb","Walk","Maintenance",362.0170443
+"Macomb","Livingston","Auto 2 Person","Visiting",172.7809908
+"Livingston","Macomb","Auto 2 Person","Visiting",172.7809908
+"Macomb","Macomb","School Bus","University",523.6491609
+"Washtenaw","Macomb","Auto SOV","University",152.263978999
+"St. Clair","St. Clair","Walk","Eating Out",117.01528905
+"Washtenaw","Detroit","Auto 3+ Person","Eating Out",160.12657173774
+"Detroit","Washtenaw","Auto 3+ Person","Eating Out",160.12657173774
+"Wayne","Detroit","Bike/Moped","Maintenance",107.68983372
+"Detroit","Wayne","Bike/Moped","Maintenance",107.68983372
+"Macomb","Livingston","Auto SOV","Visiting",82.54997716
+"Livingston","Macomb","Auto SOV","Visiting",103.83454246
+"Detroit","St. Clair","Auto 2 Person","Work",181.500201908
+"Washtenaw","Washtenaw","Walk-Transit","Escort",694.1675377
+"Wayne","Oakland","Auto 3+ Person","Visiting",274.150140702
+"St. Clair","St. Clair","School Bus","University",51.478609504
+"Macomb","Macomb","School Bus","Escort",246.8137858
+"Wayne","Wayne","Bike/Moped","University",282.2089926
+"Oakland","Macomb","Auto 3+ Person","Eating Out",3123.226233664
+"Macomb","Oakland","Auto 3+ Person","Eating Out",3123.226233664
+"St. Clair","Monroe","Auto SOV","Maintenance",31.451499765
+"Monroe","Macomb","Auto SOV","Maintenance",50.2085367
+"Macomb","St. Clair","Auto SOV","Work-based",235.60657688
+"Oakland","Macomb","Walk","School",565.0810994
+"Washtenaw","Washtenaw","PNR-Transit","University",531.0170492
+"Macomb","Wayne","Auto 3+ Person","Escort",448.59374546
+"Monroe","Monroe","Auto 2 Person","Work-based",420.647375769
+"Wayne","Detroit","Walk","Maintenance",396.799544595
+"Detroit","Wayne","Walk","Maintenance",136.957103095
+"St. Clair","Wayne","Auto SOV","Maintenance",77.2406936
+"Detroit","St. Clair","Auto SOV","University",121.1728298
+"Livingston","Macomb","Auto 3+ Person","Work",38.307942776
+"Macomb","Livingston","Auto 3+ Person","Work",38.307942776
+"Macomb","Monroe","Auto SOV","Maintenance",18.757036935
+"Livingston","Washtenaw","Auto 3+ Person","Eating Out",129.034183496
+"Washtenaw","Livingston","Auto 3+ Person","Eating Out",129.034183496
+"Oakland","Detroit","Auto 3+ Person","Work-based",46.723791135
+"Detroit","Oakland","Auto 3+ Person","Work-based",46.723791135
+"Detroit","Washtenaw","Auto 2 Person","Eating Out",203.538932566
+"Washtenaw","Detroit","Auto 2 Person","Eating Out",203.538932566
+"Oakland","Macomb","School Bus","Work",67.707470556
+"Macomb","Oakland","School Bus","Work",67.707470556
+"Monroe","Oakland","Auto 2 Person","Discretionary",349.924436558
+"Oakland","Monroe","Auto 2 Person","Discretionary",228.215568758
+"St. Clair","Livingston","Auto SOV","Work",171.694175205
+"Livingston","St. Clair","Auto SOV","Work",171.694175205
+"Monroe","Washtenaw","Auto SOV","School",19.0925003
+"Washtenaw","Monroe","Auto SOV","School",19.0925003
+"Oakland","Macomb","Walk-Transit","Work",355.254030915
+"Wayne","Washtenaw","Auto 2 Person","University",186.1461078
+"Livingston","Wayne","Auto 2 Person","University",186.1461078
+"Livingston","Livingston","Walk","Eating Out",138.13201036
+"Macomb","Macomb","Bike/Moped","University",181.142961
+"Washtenaw","Wayne","PNR-Transit","Work",89.2101798
+"Livingston","St. Clair","Auto 2 Person","Discretionary",255.311638381
+"St. Clair","Livingston","Auto 2 Person","Discretionary",255.311638381
+"Oakland","Oakland","KNR-Transit","School",258.4283504
+"Wayne","Oakland","Walk-Transit","Maintenance",211.8230737
+"Oakland","Wayne","KNR-Transit","Maintenance",211.8230737
+"Oakland","Wayne","Bike/Moped","Discretionary",28.706259184
+"Wayne","Oakland","Bike/Moped","Discretionary",28.706259184
+"Monroe","Washtenaw","Auto 3+ Person","University",67.2196408
+"Washtenaw","Wayne","Auto 3+ Person","University",67.2196408
+"Wayne","Monroe","Auto 3+ Person","University",67.2196408
+"Wayne","Washtenaw","Auto 3+ Person","University",258.8625901
+"Oakland","Macomb","Auto 3+ Person","Visiting",659.227937
+"Oakland","St. Clair","Auto SOV","Discretionary",71.32320061
+"Washtenaw","Wayne","Auto 3+ Person","Work-based",139.79851494
+"Wayne","Detroit","Bike/Moped","Discretionary",473.4464355
+"Detroit","Wayne","Bike/Moped","Discretionary",473.4464355
+"Monroe","Livingston","Auto 2 Person","Shop",20.4218084
+"Macomb","Macomb","Walk-Transit","Eating Out",338.123928
+"Monroe","Wayne","Auto SOV","Eating Out",39.1644825
+"Monroe","Oakland","Auto 2 Person","Escort",23.6980082
+"Oakland","Monroe","Auto 2 Person","Escort",23.6980082
+"Monroe","Monroe","Walk-Transit","Shop",430.49950416
+"Oakland","Washtenaw","Auto 3+ Person","Shop",99.856411935
+"Washtenaw","Oakland","Auto 3+ Person","Shop",99.856411935
+"Detroit","Macomb","Walk-Transit","Shop",185.499290247
+"Macomb","Detroit","Walk-Transit","Shop",185.499290247
+"Detroit","Oakland","KNR-Transit","Work",53.42980986
+"Livingston","Monroe","Auto 2 Person","Maintenance",92.80134888
+"Monroe","Livingston","Auto 2 Person","Maintenance",92.80134888
+"Washtenaw","Washtenaw","Bike/Moped","Shop",357.3554158
+"Monroe","Macomb","Auto 2 Person","Work",36.227134544
+"Macomb","Monroe","Auto 2 Person","Work",36.227134544
+"Monroe","St. Clair","Auto 2 Person","Visiting",33.040929983
+"Monroe","Macomb","Auto SOV","Work-based",30.43212018
+"Monroe","Wayne","Walk-Transit","Shop",76.40404548
+"Wayne","Monroe","Walk-Transit","Shop",76.40404548
+"Monroe","Monroe","Walk-Transit","Visiting",173.4036302
+"Monroe","Monroe","Bike/Moped","Shop",397.229397
+"Detroit","St. Clair","Auto 2 Person","Discretionary",443.996218418
+"St. Clair","Detroit","Auto SOV","Discretionary",443.996218418
+"Washtenaw","Washtenaw","School Bus","Visiting",317.9187959
+"St. Clair","Wayne","Auto SOV","Visiting",32.22667749
+"Monroe","Wayne","Walk-Transit","Work",76.40404548
+"Wayne","Monroe","Walk-Transit","Work",76.40404548
+"Oakland","Monroe","Auto SOV","Escort",161.6036897
+"Detroit","St. Clair","Auto SOV","Maintenance",82.449306196
+"Washtenaw","Oakland","School Bus","School",100.8281819
+"Oakland","Washtenaw","School Bus","School",100.8281819
+"Macomb","Washtenaw","Auto SOV","University",79.7434656
+"Detroit","Monroe","Auto 2 Person","Discretionary",21.53261428
+"Oakland","Oakland","KNR-Transit","Work",150.6907983
+"St. Clair","Detroit","Walk-Transit","Discretionary",141.357173892
+"Detroit","St. Clair","Walk-Transit","Discretionary",141.357173892
+"Livingston","Detroit","Auto SOV","University",260.0891235
+"Macomb","St. Clair","School Bus","Discretionary",126.682205552
+"Macomb","Oakland","Walk-Transit","Work",282.181618425
+"St. Clair","Detroit","Auto 2 Person","University",47.6213992
+"Detroit","St. Clair","Auto 2 Person","University",47.6213992
+"St. Clair","Wayne","Auto SOV","Work",180.58251939
+"Livingston","Washtenaw","Auto 3+ Person","Discretionary",204.655229512
+"Washtenaw","Livingston","Auto 3+ Person","Discretionary",204.655229512
+"Washtenaw","Livingston","School Bus","School",81.494289
+"Livingston","Washtenaw","School Bus","School",40.7471445
+"Macomb","Wayne","Auto 3+ Person","University",117.318535
+"Detroit","Washtenaw","Auto 2 Person","Maintenance",52.1592932
+"Monroe","Monroe","Bike/Moped","Maintenance",42.055201642
+"Monroe","Oakland","Auto 2 Person","Maintenance",149.89603578
+"Livingston","Detroit","Auto 3+ Person","Maintenance",26.269458252
+"Detroit","Wayne","Walk-Transit","Eating Out",762.4231518
+"Wayne","Detroit","Walk-Transit","Eating Out",762.4231518
+"St. Clair","Macomb","Auto 2 Person","Work-based",27.493924904
+"Macomb","St. Clair","Auto 2 Person","Work-based",27.493924904
+"Livingston","Macomb","Auto 3+ Person","Eating Out",91.131031481
+"Macomb","Livingston","Auto 3+ Person","Eating Out",91.131031481
+"Detroit","Oakland","Walk","Maintenance",70.0978781
+"Wayne","Wayne","Walk-Transit","Discretionary",193.3673818
+"Monroe","Livingston","Auto 2 Person","Visiting",15.2778872
+"Livingston","Monroe","Auto 2 Person","Visiting",15.2778872
+"Detroit","Detroit","School Bus","Eating Out",797.306906
+"Detroit","Wayne","School Bus","School",1046.1826055
+"Wayne","Detroit","School Bus","School",1046.1826055
+"Washtenaw","Wayne","Auto 2 Person","University",1509.2810449
+"Washtenaw","Detroit","Auto SOV","University",66.9038494
+"Detroit","Washtenaw","Auto SOV","University",66.9038494
+"Detroit","St. Clair","Auto SOV","Discretionary",107.187611656
+"Washtenaw","Macomb","Auto SOV","Shop",88.424672552
+"Washtenaw","Macomb","Auto SOV","Maintenance",74.974311262
+"Macomb","Macomb","KNR-Transit","Maintenance",317.44618878
+"Macomb","Macomb","KNR-Transit","Shop",169.061964
+"Detroit","Monroe","Auto 2 Person","Maintenance",96.005169218
+"Macomb","Washtenaw","Auto SOV","Escort",41.22391336
+"Livingston","Macomb","Auto SOV","Escort",41.22391336
+"Wayne","Monroe","Auto 3+ Person","Maintenance",21.53261428
+"Washtenaw","Wayne","Auto 3+ Person","Shop",1392.89858152
+"Wayne","Washtenaw","Auto 3+ Person","Shop",1392.89858152
+"St. Clair","St. Clair","Bike/Moped","School",79.3431208
+"Monroe","Detroit","Auto 2 Person","Work",35.25785277
+"St. Clair","Wayne","Auto 2 Person","Maintenance",177.4269315
+"Wayne","St. Clair","Auto 2 Person","Maintenance",177.4269315
+"Livingston","Monroe","Auto SOV","Work",38.307942776
+"Oakland","Washtenaw","Auto 3+ Person","Maintenance",91.713788299
+"Macomb","Livingston","Auto 2 Person","Work",20.46123471
+"Washtenaw","Livingston","Auto 2 Person","Work-based",21.3565801
+"St. Clair","Macomb","Auto 3+ Person","University",346.839513036
+"Macomb","St. Clair","Auto 3+ Person","University",346.839513036
+"Detroit","St. Clair","Auto 2 Person","Maintenance",17.105608165
+"Monroe","Wayne","Auto 3+ Person","Escort",19.12160229
+"Monroe","St. Clair","Auto 3+ Person","Work-based",19.12160229
+"St. Clair","Monroe","Auto 2 Person","Work-based",19.12160229
+"Detroit","Detroit","Bike/Moped","Visiting",184.1933374
+"Detroit","Wayne","KNR-Transit","Visiting",92.0966687
+"Monroe","Oakland","Auto SOV","Maintenance",19.12160229
+"Oakland","Monroe","Auto SOV","Maintenance",19.12160229
+"Detroit","Macomb","Walk","Discretionary",261.55153185
+"Macomb","Detroit","Walk","Discretionary",261.55153185
+"Macomb","Wayne","Auto 2 Person","School",772.7373909
+"Wayne","Macomb","Auto 3+ Person","Maintenance",1011.859326796
+NA,NA,NA,"Total",NA
+"Monroe","Monroe","Auto 2 Person","Total",90999.08327422
+"Detroit","Detroit","Walk","Total",242976.488105042
+"Detroit","Oakland","Auto SOV","Total",89671.090615452
+"Oakland","Detroit","Auto SOV","Total",87421.666697661
+"Wayne","Washtenaw","Auto SOV","Total",51598.1269429094
+"Washtenaw","Monroe","Auto SOV","Total",7916.57193997016
+"Monroe","Wayne","Auto SOV","Total",16502.254803192
+"Wayne","Wayne","Auto SOV","Total",1347043.04082707
+"Washtenaw","Washtenaw","Auto SOV","Total",445944.269712283
+"Wayne","Wayne","Auto 2 Person","Total",955842.429280824
+"Detroit","Macomb","Auto SOV","Total",46310.2292106189
+"Macomb","Detroit","Auto SOV","Total",50353.8812852545
+"Detroit","Detroit","Auto SOV","Total",364587.995403967
+"Oakland","Oakland","Auto SOV","Total",1727050.4221211
+"Oakland","Oakland","Auto 2 Person","Total",1046051.9901494
+"Washtenaw","Washtenaw","Walk-Transit","Total",41632.4337931358
+"Washtenaw","Washtenaw","Walk","Total",131794.131303588
+"Livingston","Livingston","Auto 2 Person","Total",143674.630249138
+"Livingston","Livingston","Auto SOV","Total",172469.0037573
+"Livingston","Livingston","Auto 3+ Person","Total",77202.5469402748
+"Livingston","Wayne","Auto SOV","Total",11275.591737474
+"Wayne","Livingston","Auto SOV","Total",10550.110824283
+"Livingston","Livingston","Walk","Total",15439.366294632
+"Wayne","Wayne","Walk","Total",204840.110115006
+"Oakland","Oakland","Walk","Total",232763.179096869
+"Oakland","Oakland","Auto 3+ Person","Total",596481.520197175
+"Washtenaw","Washtenaw","Auto 2 Person","Total",318894.207532871
+"Washtenaw","Detroit","Auto 2 Person","Total",2769.855056609
+"Detroit","Washtenaw","Auto SOV","Total",4113.388669011
+"Detroit","Detroit","Walk-Transit","Total",104942.650245125
+"Wayne","Macomb","Auto 2 Person","Total",26543.4245867183
+"Macomb","Oakland","Auto 2 Person","Total",57131.358297677
+"Oakland","Wayne","Auto 2 Person","Total",64297.1908188217
+"Wayne","Wayne","School Bus","Total",106583.304560277
+"Wayne","Wayne","Auto 3+ Person","Total",591491.455711069
+"Washtenaw","Detroit","Auto SOV","Total",3813.33778055012
+"Detroit","Detroit","Auto 2 Person","Total",354251.694944719
+"Detroit","Wayne","Auto 2 Person","Total",84602.7408997441
+"Wayne","Detroit","Auto 2 Person","Total",90225.4814813315
+"Livingston","Detroit","Auto SOV","Total",1025.08283302
+"Detroit","Livingston","Auto SOV","Total",858.1861081
+"Monroe","Monroe","Auto SOV","Total",136747.946592309
+"St. Clair","Macomb","Auto 2 Person","Total",12279.478194641
+"Macomb","St. Clair","Auto SOV","Total",23348.045209875
+"St. Clair","Macomb","Auto SOV","Total",23407.499470576
+"Macomb","Macomb","Auto 2 Person","Total",725706.281081633
+"Macomb","St. Clair","Auto 2 Person","Total",12719.896321874
+"St. Clair","St. Clair","Auto SOV","Total",190495.733529176
+"Macomb","Macomb","Walk","Total",113938.297891668
+"Washtenaw","Washtenaw","Auto 3+ Person","Total",160770.248351546
+"Oakland","Macomb","Auto SOV","Total",156849.867702991
+"Macomb","Oakland","Auto SOV","Total",155285.154388999
+"Livingston","Washtenaw","Auto SOV","Total",15962.7787310095
+"Washtenaw","Livingston","Auto SOV","Total",15999.1428145885
+"Livingston","Oakland","Auto SOV","Total",35088.886137162
+"Oakland","Livingston","Auto SOV","Total",34790.277963406
+"Oakland","Wayne","Auto SOV","Total",150515.140529353
+"Wayne","Oakland","Auto SOV","Total",150172.786462389
+"Detroit","Detroit","School Bus","Total",21230.023307592
+"St. Clair","St. Clair","Walk-Transit","Total",2328.90790799
+"Washtenaw","Washtenaw","School Bus","Total",30114.947436008
+"Detroit","Wayne","Auto SOV","Total",130954.111118937
+"Wayne","Detroit","Auto SOV","Total",124532.549036133
+"St. Clair","Detroit","Auto SOV","Total",1171.794084998
+"Monroe","Monroe","Auto 3+ Person","Total",76043.6213930074
+"Monroe","Monroe","School Bus","Total",22259.80827974
+"Macomb","Macomb","Auto SOV","Total",1052073.83617712
+"Wayne","Oakland","Auto 2 Person","Total",76459.0209207732
+"Monroe","Monroe","Walk","Total",21319.321447505
+"Wayne","Macomb","Auto SOV","Total",40512.998029142
+"St. Clair","St. Clair","Walk","Total",20841.6282760735
+"Livingston","Oakland","Auto 2 Person","Total",14001.773832265
+"Oakland","Livingston","Auto 2 Person","Total",17553.2061269551
+"Monroe","Detroit","Auto SOV","Total",1744.080302555
+"Detroit","Monroe","Auto SOV","Total",2120.30799956
+"Livingston","Washtenaw","Auto 2 Person","Total",8724.39548542
+"Washtenaw","Livingston","Auto 2 Person","Total",9149.806971473
+"St. Clair","Macomb","School Bus","Total",1929.61354283456
+"Macomb","St. Clair","Walk","Total",194.7660663
+"St. Clair","St. Clair","Auto 2 Person","Total",139442.283273714
+"Oakland","Macomb","Auto 2 Person","Total",57363.126853364
+"Livingston","Wayne","Auto 2 Person","Total",9509.361548905
+"Wayne","Livingston","Auto 2 Person","Total",5640.036781253
+"Livingston","Livingston","School Bus","Total",25572.643036624
+"Detroit","Detroit","Auto 3+ Person","Total",465149.184231051
+"Washtenaw","Oakland","Auto SOV","Total",15881.3756101323
+"Washtenaw","Oakland","Auto 2 Person","Total",7220.9649806753
+"Wayne","Monroe","Auto SOV","Total",15408.073035556
+"Livingston","Oakland","Auto 3+ Person","Total",6044.78475023908
+"Oakland","Livingston","Auto 3+ Person","Total",5518.94266691184
+"Washtenaw","Wayne","Auto SOV","Total",50468.9442866563
+"Wayne","Detroit","Walk-Transit","Total",17332.4278184741
+"Detroit","Wayne","Walk-Transit","Total",20852.0035451371
+"Livingston","Detroit","Auto 3+ Person","Total",78.786378638
+"Detroit","Livingston","Auto 3+ Person","Total",118.556428727
+"Monroe","Washtenaw","Auto 2 Person","Total",5302.569391408
+"Washtenaw","Monroe","Auto 2 Person","Total",4281.716930471
+"Oakland","Wayne","Bike/Moped","Total",1315.867508652
+"Wayne","Oakland","Bike/Moped","Total",1315.867508652
+"Wayne","Wayne","Bike/Moped","Total",41056.112545263
+"Oakland","Washtenaw","Auto SOV","Total",17501.0503867862
+"Macomb","Washtenaw","Auto SOV","Total",1301.846413321
+"Oakland","Detroit","Auto 2 Person","Total",44723.0877716462
+"Detroit","Oakland","Auto 2 Person","Total",48919.9904600292
+"Monroe","Washtenaw","Auto 3+ Person","Total",2430.355999875
+"Washtenaw","Monroe","Auto 3+ Person","Total",2465.002208638
+"Washtenaw","Washtenaw","Bike/Moped","Total",28502.8293766446
+"St. Clair","St. Clair","Auto 3+ Person","Total",84341.9338608407
+"Macomb","Detroit","PNR-Transit","Total",192.941069685
+"Detroit","Macomb","PNR-Transit","Total",192.941069685
+"Monroe","Macomb","Auto SOV","Total",414.066841624
+"Macomb","Monroe","Auto SOV","Total",377.002188625
+"Macomb","Detroit","Auto 2 Person","Total",34983.2163291355
+"Detroit","Macomb","Auto 2 Person","Total",31741.4851099305
+"Macomb","Macomb","School Bus","Total",75552.649429916
+"Macomb","Wayne","School Bus","Total",1616.8091406
+"Macomb","Detroit","School Bus","Total",573.6508679
+"Livingston","Macomb","Auto SOV","Total",2103.331011709
+"Macomb","Livingston","Auto SOV","Total",1300.444151383
+"Livingston","Livingston","Bike/Moped","Total",1287.092795402
+"Washtenaw","Macomb","Auto SOV","Total",1731.995795891
+"Livingston","Washtenaw","Auto 3+ Person","Total",2323.91741274552
+"Washtenaw","Livingston","Auto 3+ Person","Total",2428.754697438
+"Macomb","Macomb","Bike/Moped","Total",19082.253761474
+"St. Clair","Macomb","Auto 3+ Person","Total",7609.434831014
+"Macomb","St. Clair","Auto 3+ Person","Total",8069.03965788056
+"St. Clair","St. Clair","School Bus","Total",18238.0997600038
+"Macomb","Wayne","Auto SOV","Total",42470.0936827077
+"Macomb","Macomb","Auto 3+ Person","Total",435291.142373389
+"Detroit","Macomb","Auto 3+ Person","Total",27380.603616737
+"Macomb","Detroit","Auto 3+ Person","Total",24313.0566840317
+"Macomb","Wayne","Auto 2 Person","Total",24450.1289179233
+"Wayne","Detroit","Auto 3+ Person","Total",44855.1823084356
+"Detroit","Wayne","Auto 3+ Person","Total",44867.2955505266
+"Washtenaw","Washtenaw","PNR-Transit","Total",2729.34266211846
+"Oakland","Washtenaw","Auto 2 Person","Total",8470.9681300933
+"Wayne","Detroit","PNR-Transit","Total",1673.7224136331
+"Detroit","Wayne","PNR-Transit","Total",2440.0105294291
+"Oakland","Macomb","Auto 3+ Person","Total",17765.677699566
+"Macomb","Oakland","Auto 3+ Person","Total",19563.081251316
+"St. Clair","Oakland","Auto SOV","Total",3312.273896892
+"Monroe","Washtenaw","Auto SOV","Total",7893.95544101816
+"Detroit","Detroit","PNR-Transit","Total",1214.22170394
+"Monroe","Oakland","Auto SOV","Total",1520.326975545
+"Oakland","Monroe","Auto SOV","Total",1632.049536639
+"Wayne","Monroe","Auto 2 Person","Total",7522.865094782
+"Oakland","Oakland","School Bus","Total",138659.748417668
+"Detroit","Oakland","Auto 3+ Person","Total",26366.85796058
+"Oakland","Detroit","Auto 3+ Person","Total",25994.67557169
+"Detroit","Detroit","Bike/Moped","Total",27694.591927075
+"Wayne","Detroit","Walk","Total",2397.451391821
+"Wayne","Wayne","Walk-Transit","Total",14598.627578319
+"Monroe","Wayne","Auto 2 Person","Total",7626.719926452
+"Monroe","Wayne","Auto 3+ Person","Total",1960.48112678048
+"Wayne","Monroe","Auto 3+ Person","Total",2212.37120912548
+"Wayne","Macomb","School Bus","Total",352.0485124
+"Macomb","St. Clair","School Bus","Total",1849.984189648
+"Livingston","Wayne","Auto 3+ Person","Total",1586.480217776
+"Wayne","Livingston","Auto 3+ Person","Total",1576.046247576
+"Livingston","Oakland","School Bus","Total",392.512230448
+"Oakland","Livingston","School Bus","Total",477.911162948
+"Oakland","Oakland","Bike/Moped","Total",35021.714600793
+"Detroit","Oakland","Walk-Transit","Total",6853.579478543
+"Oakland","Detroit","Walk-Transit","Total",6477.378779452
+"Oakland","Oakland","Walk-Transit","Total",11658.804232822
+"Oakland","Detroit","KNR-Transit","Total",3399.791316164
+"Wayne","Macomb","Auto 3+ Person","Total",5547.625338642
+"Macomb","Wayne","Auto 3+ Person","Total",3268.51350243
+"Macomb","Washtenaw","Auto 2 Person","Total",385.452832555
+"Washtenaw","Macomb","Auto 2 Person","Total",385.452832555
+"St. Clair","Oakland","Auto 2 Person","Total",969.146196714
+"Oakland","St. Clair","Auto 2 Person","Total",2440.556106783
+"Monroe","Monroe","Walk-Transit","Total",6730.24276556
+"Wayne","Livingston","School Bus","Total",265.9169822
+"Wayne","Oakland","School Bus","Total",3775.945071202
+"Oakland","Wayne","School Bus","Total",3197.404401594
+"Detroit","Washtenaw","Auto 3+ Person","Total",543.87462254886
+"Macomb","Macomb","Walk-Transit","Total",13241.609764045
+"Wayne","Washtenaw","Auto 2 Person","Total",23097.1721724549
+"Macomb","Detroit","Walk","Total",318.37011845
+"Oakland","St. Clair","Auto SOV","Total",2500.049040257
+"Oakland","Wayne","Auto 3+ Person","Total",25867.584469531
+"Wayne","Washtenaw","Auto 3+ Person","Total",14407.129855653
+"Washtenaw","Wayne","Auto 3+ Person","Total",12666.251832074
+"Washtenaw","Oakland","Auto 3+ Person","Total",3295.10732227152
+"Livingston","Macomb","Auto 2 Person","Total",891.089208495
+"Macomb","Livingston","Auto 2 Person","Total",235.919805735
+"Detroit","Oakland","School Bus","Total",307.3631427
+"Oakland","Detroit","School Bus","Total",307.3631427
+"Detroit","Wayne","Walk","Total",2101.111171466
+"Wayne","Oakland","Auto 3+ Person","Total",18196.9559003858
+"Wayne","Wayne","KNR-Transit","Total",2029.0966395
+"Washtenaw","Wayne","Auto 2 Person","Total",25452.4584672759
+"Detroit","Oakland","Walk","Total",941.0892196
+"Oakland","Detroit","Walk","Total",870.9913415
+"Detroit","Washtenaw","Auto 2 Person","Total",3068.642274467
+"Oakland","Wayne","Walk","Total",595.611694995
+"Wayne","Oakland","Walk","Total",595.611694995
+"Washtenaw","Detroit","Auto 3+ Person","Total",875.87726661274
+"Wayne","Detroit","Bike/Moped","Total",1957.175209814
+"Detroit","Wayne","Bike/Moped","Total",1854.613463414
+"Macomb","Wayne","Bike/Moped","Total",1046.8907285
+"Wayne","Macomb","Bike/Moped","Total",1046.8907285
+"Washtenaw","Wayne","School Bus","Total",491.37778334
+"Macomb","Oakland","School Bus","Total",1437.231011556
+"Oakland","Macomb","School Bus","Total",2635.960575156
+"St. Clair","St. Clair","Bike/Moped","Total",6485.275169536
+"Macomb","Detroit","Walk-Transit","Total",4347.092885824
+"Detroit","Macomb","Walk-Transit","Total",1188.964706264
+"Oakland","Macomb","KNR-Transit","Total",1460.96522418
+"Monroe","Detroit","Auto 2 Person","Total",200.421948901
+"St. Clair","Wayne","Auto 2 Person","Total",604.523884654
+"Livingston","Monroe","Auto SOV","Total",379.27880821
+"Monroe","Livingston","Auto SOV","Total",340.970865434
+"Oakland","Detroit","PNR-Transit","Total",425.39981581
+"Detroit","Oakland","PNR-Transit","Total",277.84506939
+"Washtenaw","Washtenaw","KNR-Transit","Total",548.390791179
+"Detroit","Oakland","Bike/Moped","Total",91.751961
+"Oakland","Macomb","Walk-Transit","Total",2499.293467123
+"Macomb","Oakland","Walk-Transit","Total",2426.221054633
+"Monroe","Washtenaw","Walk","Total",1739.68280228
+"Washtenaw","Monroe","Walk","Total",1296.08770514
+"Livingston","Livingston","Walk-Transit","Total",221.59628291
+"St. Clair","Detroit","Auto 2 Person","Total",386.393528298
+"Wayne","Washtenaw","Bike/Moped","Total",165.604064072
+"Washtenaw","Wayne","Bike/Moped","Total",413.549537872
+"Macomb","Oakland","KNR-Transit","Total",1639.74292902
+"Washtenaw","Monroe","School Bus","Total",314.9311296
+"St. Clair","Detroit","Auto 3+ Person","Total",556.7367792
+"Detroit","St. Clair","Auto SOV","Total",638.367307372
+"Washtenaw","Oakland","School Bus","Total",177.7522645
+"Oakland","Washtenaw","Auto 3+ Person","Total",2125.846910159
+"Wayne","St. Clair","Auto SOV","Total",212.38156633
+"Monroe","Monroe","Bike/Moped","Total",2111.128960185
+"Wayne","Oakland","KNR-Transit","Total",69.036098145
+"Oakland","Wayne","Walk-Transit","Total",69.036098145
+"Detroit","Detroit","KNR-Transit","Total",818.308014027
+"St. Clair","Wayne","Auto 3+ Person","Total",279.8873052
+"Wayne","St. Clair","Auto 3+ Person","Total",279.8873052
+"Washtenaw","Oakland","Walk","Total",231.231755
+"Oakland","Washtenaw","Walk","Total",231.231755
+"St. Clair","Livingston","Auto 2 Person","Total",281.044159741
+"Livingston","Macomb","KNR-Transit","Total",30.649406025
+"Livingston","Detroit","Auto 2 Person","Total",767.78218729
+"Detroit","Livingston","Auto 2 Person","Total",767.78218729
+"Monroe","Washtenaw","School Bus","Total",178.8261067
+"Monroe","Oakland","Auto 2 Person","Total",665.57235761
+"Detroit","Washtenaw","KNR-Transit","Total",106.2412899
+"Washtenaw","Detroit","KNR-Transit","Total",106.2412899
+"Oakland","Monroe","Auto 2 Person","Total",547.441452729
+"Wayne","Macomb","Walk","Total",332.7827643
+"Macomb","Wayne","Walk","Total",332.7827643
+"Detroit","Macomb","KNR-Transit","Total",92.0966687
+"Macomb","Detroit","Bike/Moped","Total",92.0966687
+"Macomb","Washtenaw","Auto 3+ Person","Total",118.724700885
+"Monroe","Oakland","Auto 3+ Person","Total",19.671684724
+"Wayne","St. Clair","Auto 2 Person","Total",394.434395815
+"Macomb","Wayne","Walk-Transit","Total",151.897885329
+"Wayne","Macomb","Walk-Transit","Total",151.897885329
+"Wayne","Washtenaw","Walk","Total",112.2100968
+"St. Clair","St. Clair","KNR-Transit","Total",421.0529374
+"Washtenaw","Detroit","Walk","Total",175.192912
+"Macomb","Oakland","Bike/Moped","Total",65.1562084
+"Oakland","Macomb","Bike/Moped","Total",65.1562084
+"Wayne","Washtenaw","School Bus","Total",330.0195767
+"Macomb","Oakland","Walk","Total",54.614363781
+"Wayne","Washtenaw","Walk-Transit","Total",247.9454738
+"Wayne","Washtenaw","PNR-Transit","Total",428.300026539
+"Monroe","Livingston","Auto 2 Person","Total",146.010159145
+"Livingston","Monroe","Auto 2 Person","Total",125.588350745
+"Washtenaw","Monroe","Walk-Transit","Total",206.1225233
+"Monroe","Washtenaw","Walk-Transit","Total",206.1225233
+"Oakland","Oakland","KNR-Transit","Total",972.1916513
+"St. Clair","Washtenaw","Auto 2 Person","Total",55.189384
+"Washtenaw","St. Clair","Auto 2 Person","Total",55.189384
+"Detroit","Monroe","Auto 2 Person","Total",508.732415711
+"Detroit","St. Clair","Auto 3+ Person","Total",454.6631986
+"St. Clair","Livingston","Auto SOV","Total",415.858922145
+"Livingston","St. Clair","Auto SOV","Total",415.858922145
+"Detroit","Macomb","Walk","Total",623.56857615
+"Detroit","St. Clair","Auto 2 Person","Total",690.223427691
+"St. Clair","Monroe","Auto SOV","Total",31.451499765
+"Oakland","Macomb","Walk","Total",565.0810994
+"St. Clair","Wayne","Auto SOV","Total",290.04989048
+"Livingston","Macomb","Auto 3+ Person","Total",129.438974257
+"Macomb","Livingston","Auto 3+ Person","Total",129.438974257
+"Washtenaw","Wayne","PNR-Transit","Total",89.2101798
+"Livingston","St. Clair","Auto 2 Person","Total",255.311638381
+"Wayne","Oakland","Walk-Transit","Total",211.8230737
+"Oakland","Wayne","KNR-Transit","Total",211.8230737
+"Detroit","Oakland","KNR-Transit","Total",53.42980986
+"Monroe","Macomb","Auto 2 Person","Total",36.227134544
+"Macomb","Monroe","Auto 2 Person","Total",36.227134544
+"Monroe","St. Clair","Auto 2 Person","Total",33.040929983
+"Monroe","Wayne","Walk-Transit","Total",152.80809096
+"Wayne","Monroe","Walk-Transit","Total",152.80809096
+"Oakland","Washtenaw","School Bus","Total",100.8281819
+"St. Clair","Detroit","Walk-Transit","Total",141.357173892
+"Detroit","St. Clair","Walk-Transit","Total",141.357173892
+"Washtenaw","Livingston","School Bus","Total",81.494289
+"Livingston","Washtenaw","School Bus","Total",40.7471445
+"Detroit","Wayne","School Bus","Total",1046.1826055
+"Wayne","Detroit","School Bus","Total",1046.1826055
+"Macomb","Macomb","KNR-Transit","Total",486.50815278
+"Monroe","St. Clair","Auto 3+ Person","Total",19.12160229
+"St. Clair","Monroe","Auto 2 Person","Total",19.12160229
+"Detroit","Wayne","KNR-Transit","Total",92.0966687
+NA,NA,"Total",NA,NA
+"Monroe","Monroe","Total","Shop",53443.438248537
+"Detroit","Detroit","Total","Work",219185.938709691
+"Detroit","Oakland","Total","Work",64371.2616896746
+"Oakland","Detroit","Total","Work",59004.0972375326
+"Wayne","Washtenaw","Total","Work",41647.6742321917
+"Washtenaw","Monroe","Total","Work",5562.43766986616
+"Monroe","Wayne","Total","Work",15525.0459964255
+"Wayne","Wayne","Total","Eating Out",141781.20354737
+"Washtenaw","Washtenaw","Total","Work-based",57881.7090107146
+"Wayne","Wayne","Total","Work",622088.999498694
+"Wayne","Wayne","Total","Work-based",98336.949069206
+"Washtenaw","Washtenaw","Total","University",83474.227012805
+"Washtenaw","Washtenaw","Total","Maintenance",134105.065389442
+"Washtenaw","Washtenaw","Total","Eating Out",50555.2030742223
+"Detroit","Macomb","Total","Work",40874.534826706
+"Macomb","Detroit","Total","Work",44942.389431612
+"Detroit","Detroit","Total","Maintenance",265203.350400733
+"Detroit","Detroit","Total","Discretionary",178030.449091663
+"Macomb","Detroit","Total","Work-based",2638.32238783
+"Detroit","Detroit","Total","Work-based",64726.5630229444
+"Detroit","Macomb","Total","Work-based",2740.194289228
+"Oakland","Oakland","Total","Work",905942.668343418
+"Oakland","Oakland","Total","Work-based",142125.656970662
+"Washtenaw","Washtenaw","Total","Shop",126745.498293005
+"Livingston","Livingston","Total","Escort",39960.333803893
+"Livingston","Wayne","Total","Work",12544.050681085
+"Wayne","Livingston","Total","Work",11589.110334912
+"Livingston","Livingston","Total","Work",75296.3409201892
+"Livingston","Livingston","Total","School",72927.340645104
+"Wayne","Wayne","Total","Discretionary",443336.057570062
+"Wayne","Wayne","Total","Shop",503155.154602863
+"Oakland","Oakland","Total","Escort",322388.42170033
+"Oakland","Oakland","Total","Discretionary",624133.212831546
+"Oakland","Oakland","Total","School",491060.310733876
+"Washtenaw","Washtenaw","Total","Discretionary",172126.550922422
+"Washtenaw","Detroit","Total","Work",4873.30052206512
+"Detroit","Washtenaw","Total","Work",3998.86553781812
+"Wayne","Macomb","Total","Work",31864.298643816
+"Macomb","Oakland","Total","Work",123369.232916783
+"Oakland","Wayne","Total","Work",119238.460175834
+"Wayne","Wayne","Total","School",471966.183577388
+"Detroit","Wayne","Total","Maintenance",46540.609485742
+"Wayne","Detroit","Total","Maintenance",46969.884926237
+"Livingston","Detroit","Total","Work",601.345737232
+"Detroit","Livingston","Total","Work",694.538135812
+"Washtenaw","Washtenaw","Total","Work",268127.954197845
+"Monroe","Monroe","Total","Work",64728.125983348
+"St. Clair","Macomb","Total","Escort",5339.21099099
+"Macomb","St. Clair","Total","Escort",5823.305677429
+"Macomb","Macomb","Total","Escort",181577.933296348
+"St. Clair","St. Clair","Total","Visiting",20602.00019864
+"St. Clair","Macomb","Total","School",5274.238408472
+"Macomb","Macomb","Total","School",306833.665506224
+"Macomb","St. Clair","Total","School",5246.029873272
+"Washtenaw","Washtenaw","Total","Escort",94840.2900526889
+"Washtenaw","Washtenaw","Total","Visiting",45625.7535948182
+"Washtenaw","Washtenaw","Total","School",127448.54941141
+"Oakland","Macomb","Total","Work",124480.859847227
+"Oakland","Oakland","Total","Shop",469216.227458668
+"Oakland","Oakland","Total","Eating Out",181829.601016671
+"Livingston","Washtenaw","Total","Work",15804.332779249
+"Washtenaw","Livingston","Total","Work",15041.9105669305
+"Livingston","Livingston","Total","Eating Out",15172.003314354
+"Livingston","Oakland","Total","Work",22057.010461031
+"Oakland","Livingston","Total","Work",23018.8112952135
+"Oakland","Wayne","Total","Work-based",7214.7329094452
+"Wayne","Oakland","Total","Work-based",6536.5604183002
+"Oakland","Oakland","Total","University",76083.012358334
+"Oakland","Wayne","Total","University",3820.788344663
+"Wayne","Oakland","Total","University",5556.435904663
+"Oakland","Oakland","Total","Visiting",131728.41887955
+"Detroit","Detroit","Total","Shop",179503.83358624
+"Detroit","Detroit","Total","School",258905.325173804
+"St. Clair","St. Clair","Total","Discretionary",60413.4570637142
+"Detroit","Wayne","Total","Shop",29435.8775184072
+"Wayne","Detroit","Total","Shop",34418.6091029309
+"Wayne","Oakland","Total","Work",116593.506717091
+"St. Clair","Macomb","Total","Shop",4010.096492629
+"Macomb","Macomb","Total","Shop",371862.058463347
+"Macomb","St. Clair","Total","Shop",4224.947936081
+"St. Clair","Detroit","Total","Maintenance",629.882719865
+"Detroit","Macomb","Total","Maintenance",7694.3125711855
+"Macomb","St. Clair","Total","Maintenance",3275.194832769
+"Livingston","Oakland","Total","Shop",7067.37604489108
+"Oakland","Livingston","Total","Shop",6569.82379740326
+"Monroe","Monroe","Total","Maintenance",54321.891214696
+"Monroe","Monroe","Total","School",50128.03918824
+"Livingston","Livingston","Total","Shop",66420.5949657243
+"Macomb","Macomb","Total","Work",533530.11043288
+"Wayne","Oakland","Total","Maintenance",25825.984302692
+"Oakland","Oakland","Total","Maintenance",444152.040174077
+"Oakland","Wayne","Total","Maintenance",27264.896780148
+"Wayne","Livingston","Total","Shop",576.109476735
+"Macomb","Oakland","Total","Work-based",6090.008998041
+"St. Clair","St. Clair","Total","Work",89759.631884585
+"Wayne","Wayne","Total","Visiting",169575.667780147
+"Livingston","Livingston","Total","Discretionary",77117.9705236681
+"Wayne","Wayne","Total","Maintenance",380477.843002052
+"Monroe","Monroe","Total","Discretionary",50232.9668160056
+"Monroe","Detroit","Total","Work",1567.279765241
+"Detroit","Monroe","Total","Work",2011.017510171
+"Monroe","Monroe","Total","Visiting",20994.653813336
+"Oakland","Macomb","Total","Escort",5626.541156507
+"Macomb","Oakland","Total","Escort",5574.425985759
+"Livingston","Livingston","Total","Maintenance",54939.0502385398
+"St. Clair","Macomb","Total","Maintenance",2903.462789368
+"Macomb","Macomb","Total","Maintenance",320053.667112618
+"St. Clair","St. Clair","Total","Maintenance",70550.5640317414
+"St. Clair","St. Clair","Total","School",62070.7442486918
+"Macomb","Oakland","Total","Maintenance",34475.4487018197
+"Oakland","Macomb","Total","Maintenance",35064.2128302467
+"Wayne","Livingston","Total","Maintenance",2649.218192512
+"Livingston","Oakland","Total","Eating Out",2405.419007669
+"Oakland","Livingston","Total","Eating Out",2451.410665619
+"Detroit","Wayne","Total","Work",85703.214435248
+"Wayne","Detroit","Total","Work",85652.3847644331
+"Detroit","Detroit","Total","University",67932.3019837022
+"Washtenaw","Oakland","Total","Maintenance",2616.995616143
+"Oakland","Livingston","Total","Maintenance",8008.10296167182
+"Washtenaw","Oakland","Total","Work",15161.4487656391
+"Livingston","Washtenaw","Total","School",1765.5316102
+"Washtenaw","Oakland","Total","School",1399.247817276
+"Oakland","Livingston","Total","School",5217.6567426
+"Livingston","Washtenaw","Total","Discretionary",1623.206647649
+"Washtenaw","Livingston","Total","Discretionary",1967.424128685
+"Monroe","Wayne","Total","Visiting",1768.142579439
+"Wayne","Monroe","Total","Visiting",1988.041482834
+"Detroit","Macomb","Total","Discretionary",13182.066263806
+"Macomb","Detroit","Total","Discretionary",13972.47328975
+"Livingston","Oakland","Total","Maintenance",7400.541077203
+"Washtenaw","Wayne","Total","University",5976.9727957
+"Wayne","Washtenaw","Total","University",4812.1642379
+"Washtenaw","Wayne","Total","Work",39384.8952162016
+"St. Clair","St. Clair","Total","Shop",65867.980419956
+"St. Clair","Macomb","Total","Work",16800.231521458
+"Macomb","St. Clair","Total","Work",17230.703497114
+"Livingston","Detroit","Total","Discretionary",198.421452186
+"Detroit","Livingston","Total","Discretionary",264.460960527
+"Livingston","Oakland","Total","Work-based",646.957626597
+"Oakland","Livingston","Total","Work-based",923.774005957
+"Livingston","Oakland","Total","Discretionary",3954.607822274
+"Oakland","Livingston","Total","Discretionary",4642.82386538836
+"Monroe","Washtenaw","Total","Maintenance",2462.866364315
+"Washtenaw","Monroe","Total","Maintenance",2492.178199457
+"Wayne","Macomb","Total","Maintenance",12521.1121199443
+"Oakland","Wayne","Total","Shop",26182.8155615022
+"Wayne","Oakland","Total","Shop",23176.3422783102
+"Oakland","Wayne","Total","Eating Out",9949.6753684893
+"Wayne","Oakland","Total","Eating Out",9949.6753684893
+"Oakland","Wayne","Total","Discretionary",25624.6417027372
+"Wayne","Oakland","Total","Discretionary",27636.6313718172
+"Livingston","Livingston","Total","Visiting",17106.4032516143
+"Oakland","Macomb","Total","Discretionary",20455.726990636
+"Macomb","Oakland","Total","Discretionary",20891.580713799
+"Wayne","Wayne","Total","Escort",344914.377438417
+"Washtenaw","Livingston","Total","Work-based",215.02356676
+"Livingston","Washtenaw","Total","Work-based",223.477062452
+"Oakland","Washtenaw","Total","Work",14859.4289588695
+"Washtenaw","Wayne","Total","Discretionary",7532.954815046
+"Wayne","Washtenaw","Total","Discretionary",8420.282086853
+"Detroit","Wayne","Total","Discretionary",33633.81772347
+"Wayne","Detroit","Total","Discretionary",30276.405643822
+"Macomb","Washtenaw","Total","Work",1432.181027016
+"Wayne","Oakland","Total","Visiting",7538.614178844
+"Oakland","Detroit","Total","Visiting",8305.577951802
+"Detroit","Oakland","Total","Visiting",7709.324199424
+"Oakland","Wayne","Total","Visiting",6493.056179224
+"Monroe","Monroe","Total","Escort",28794.5367964939
+"Monroe","Washtenaw","Total","Escort",1300.444147932
+"Washtenaw","Monroe","Total","Escort",1262.975010066
+"Wayne","Monroe","Total","Work",14352.9549996635
+"Wayne","Washtenaw","Total","Work-based",1618.121478759
+"Washtenaw","Wayne","Total","Work-based",1620.653169249
+"Monroe","Washtenaw","Total","Discretionary",1469.621996054
+"Washtenaw","Monroe","Total","Discretionary",1455.522270689
+"Detroit","Detroit","Total","Visiting",92612.186025341
+"Livingston","Oakland","Total","Escort",4642.709430383
+"Oakland","Livingston","Total","Escort",5027.385383281
+"Livingston","Wayne","Total","Maintenance",4025.568343973
+"Livingston","Oakland","Total","School",4634.2372125
+"St. Clair","St. Clair","Total","Work-based",11820.223833946
+"Livingston","Wayne","Total","Visiting",712.723869908
+"Wayne","Livingston","Total","Visiting",356.583603646
+"Monroe","Macomb","Total","Work",350.531716998
+"Macomb","Monroe","Total","Work",362.206800243
+"Monroe","Wayne","Total","Maintenance",1930.083794032
+"Wayne","Monroe","Total","Maintenance",1556.137376909
+"Macomb","Macomb","Total","Discretionary",342106.81601829
+"Wayne","Macomb","Total","Discretionary",5890.54194861
+"Macomb","Wayne","Total","School",3391.694700696
+"Wayne","Macomb","Total","School",3728.963838696
+"Detroit","Detroit","Total","Eating Out",40341.7802672546
+"Macomb","Macomb","Total","Eating Out",125772.116778156
+"Livingston","Macomb","Total","Maintenance",804.906585764
+"Macomb","Livingston","Total","Maintenance",175.469704364
+"Washtenaw","Macomb","Total","Work",1597.312990093
+"Livingston","Washtenaw","Total","Maintenance",3092.717461847
+"Washtenaw","Livingston","Total","Maintenance",4091.052002658
+"Livingston","Washtenaw","Total","Escort",981.991322561
+"Washtenaw","Livingston","Total","Escort",1023.215235921
+"Livingston","Washtenaw","Total","Visiting",514.600394214
+"Washtenaw","Livingston","Total","Visiting",722.930786323
+"Washtenaw","Livingston","Total","School",1182.1120801
+"Wayne","Detroit","Total","Visiting",12359.611684009
+"Detroit","Wayne","Total","Visiting",11522.41991497
+"Detroit","Detroit","Total","Escort",216423.429621164
+"Detroit","Macomb","Total","Shop",7611.31577603372
+"Macomb","Detroit","Total","Shop",7060.060981042
+"Macomb","Oakland","Total","Eating Out",6309.438155689
+"Oakland","Macomb","Total","Eating Out",6365.723447069
+"Wayne","Detroit","Total","Escort",25257.9653619675
+"Detroit","Wayne","Total","Escort",29718.1206288435
+"Livingston","Wayne","Total","Escort",1951.963230915
+"Wayne","Oakland","Total","Escort",11925.6162094632
+"Livingston","Washtenaw","Total","Eating Out",1013.911017682
+"Washtenaw","Livingston","Total","Eating Out",1013.911017682
+"St. Clair","Macomb","Total","Visiting",1375.265151175
+"Macomb","Macomb","Total","Visiting",119612.374146648
+"Macomb","St. Clair","Total","Visiting",1318.396898324
+"Detroit","Macomb","Total","Escort",14320.3927612912
+"Macomb","Detroit","Total","Escort",15256.4861446812
+"St. Clair","St. Clair","Total","Escort",54455.6187904138
+"Livingston","Oakland","Total","Visiting",2018.972999588
+"Oakland","Washtenaw","Total","Visiting",283.463493926
+"Macomb","Wayne","Total","Work",30841.420733185
+"Macomb","Macomb","Total","University",71334.661629718
+"Oakland","Livingston","Total","Visiting",1780.423935109
+"Wayne","Macomb","Total","Shop",9037.165025648
+"Macomb","Wayne","Total","Shop",10036.6859727797
+"Wayne","Detroit","Total","University",13333.6876216746
+"Detroit","Wayne","Total","University",12452.2948869386
+"Macomb","Macomb","Total","Work-based",62689.175247801
+"St. Clair","Macomb","Total","Eating Out",3840.246892707
+"Macomb","St. Clair","Total","Eating Out",3276.868589737
+"St. Clair","Macomb","Total","Discretionary",3594.62851838156
+"Macomb","St. Clair","Total","Discretionary",3491.79412502156
+"Washtenaw","Oakland","Total","Eating Out",361.555172193
+"Oakland","Washtenaw","Total","Eating Out",361.555172193
+"Wayne","Wayne","Total","University",87851.7411711328
+"Livingston","Macomb","Total","Work",1940.631536621
+"Monroe","Monroe","Total","Work-based",5865.266792046
+"Oakland","Macomb","Total","School",12327.277650016
+"Macomb","Oakland","Total","School",9749.829474316
+"St. Clair","Oakland","Total","Work",2644.678708586
+"Macomb","Oakland","Total","Shop",17983.634522403
+"Oakland","Macomb","Total","Shop",16954.312369713
+"Wayne","Detroit","Total","School",22784.81734118
+"Detroit","Wayne","Total","School",26405.34538228
+"Monroe","Washtenaw","Total","Work",5934.37969024116
+"Macomb","Detroit","Total","Maintenance",8688.3285745275
+"Monroe","Wayne","Total","Escort",1136.163933313
+"Wayne","Monroe","Total","Escort",999.350214155
+"Monroe","Oakland","Total","Work",1102.417823486
+"Oakland","Monroe","Total","Work",1163.118069715
+"Monroe","Monroe","Total","Eating Out",17910.810214877
+"Monroe","Washtenaw","Total","Visiting",582.227313212
+"Washtenaw","Monroe","Total","Visiting",368.382491437
+"Detroit","Oakland","Total","Maintenance",26635.322083857
+"Oakland","Detroit","Total","Maintenance",25260.506799941
+"Detroit","Oakland","Total","Escort",8908.502078311
+"Oakland","Detroit","Total","Escort",11043.010158767
+"St. Clair","Macomb","Total","Work-based",57.255759839
+"Washtenaw","Detroit","Total","Maintenance",972.771817732
+"Detroit","Washtenaw","Total","Maintenance",1675.837039305
+"Detroit","Washtenaw","Total","Discretionary",70.3537574
+"Wayne","Washtenaw","Total","Maintenance",13878.1181643788
+"Washtenaw","Wayne","Total","Maintenance",12915.9611041968
+"Livingston","Wayne","Total","University",286.121346
+"Wayne","Livingston","Total","University",99.9752382
+"Livingston","Livingston","Total","University",6985.728434177
+"Wayne","Macomb","Total","Eating Out",1960.397123398
+"Macomb","Wayne","Total","Eating Out",2188.386316466
+"St. Clair","St. Clair","Total","Eating Out",19570.825363256
+"Macomb","Wayne","Total","Discretionary",5264.974788508
+"Monroe","Wayne","Total","Eating Out",1063.452414806
+"Wayne","Monroe","Total","Eating Out",1164.090015606
+"Macomb","Detroit","Total","Visiting",2679.793467476
+"Macomb","Wayne","Total","Maintenance",12773.4611795003
+"St. Clair","Macomb","Total","University",2031.389514046
+"Macomb","St. Clair","Total","University",2031.389514046
+"Wayne","Livingston","Total","Escort",1567.287278017
+"Washtenaw","Oakland","Total","Discretionary",3421.488719994
+"Oakland","Washtenaw","Total","Discretionary",3261.878325483
+"Detroit","Oakland","Total","Discretionary",16057.0693220165
+"Oakland","Detroit","Total","Discretionary",18100.7703524765
+"Detroit","Wayne","Total","Eating Out",5438.941187017
+"Wayne","Detroit","Total","Eating Out",5438.941187017
+"Oakland","Detroit","Total","Shop",15146.812327068
+"Detroit","Macomb","Total","University",2894.1960209
+"Macomb","Detroit","Total","University",2412.561751
+"St. Clair","Oakland","Total","Visiting",136.002438563
+"Oakland","St. Clair","Total","Visiting",136.002438563
+"Detroit","Oakland","Total","Shop",17997.087241559
+"Macomb","Detroit","Total","Eating Out",3175.794858154
+"Detroit","Macomb","Total","Eating Out",3175.794858154
+"Detroit","Macomb","Total","Visiting",2907.746455773
+"Monroe","Wayne","Total","Shop",1694.427384551
+"Wayne","Monroe","Total","Shop",1713.386685956
+"Oakland","Wayne","Total","Escort",8575.4083997772
+"Wayne","Oakland","Total","School",16057.679980572
+"Oakland","Wayne","Total","School",11705.183172972
+"Wayne","Livingston","Total","School",265.9169822
+"Livingston","Wayne","Total","School",265.9169822
+"Livingston","Detroit","Total","Work-based",83.5140898
+"Detroit","Livingston","Total","Work-based",83.5140898
+"Detroit","Oakland","Total","University",10529.566908428
+"Oakland","Detroit","Total","University",10640.317733213
+"Detroit","Macomb","Total","School",12129.335135008
+"Macomb","Detroit","Total","School",14348.095022908
+"St. Clair","Oakland","Total","Maintenance",1137.982765092
+"Oakland","St. Clair","Total","Maintenance",1183.530784254
+"Wayne","Monroe","Total","Discretionary",2065.67946956
+"Monroe","Wayne","Total","Discretionary",1969.453431893
+"Detroit","Oakland","Total","Eating Out",6037.064444411
+"Oakland","Detroit","Total","Eating Out",6184.627713551
+"Livingston","Livingston","Total","Work-based",9941.113259017
+"Detroit","Oakland","Total","School",12231.488736808
+"Oakland","Detroit","Total","School",13673.372028908
+"Washtenaw","Wayne","Total","Escort",3432.527500363
+"Wayne","Washtenaw","Total","Escort",3388.535259797
+"Washtenaw","Wayne","Total","Visiting",4126.42146261
+"Wayne","Washtenaw","Total","Visiting",3453.062392932
+"Washtenaw","Monroe","Total","School",1722.007952888
+"Monroe","Washtenaw","Total","School",2185.714803888
+"Livingston","Wayne","Total","Discretionary",1721.065027387
+"Washtenaw","Wayne","Total","Shop",9383.87974213786
+"Wayne","Washtenaw","Total","Shop",7911.47603770286
+"Oakland","Washtenaw","Total","Work-based",139.85465991
+"Oakland","Washtenaw","Total","Maintenance",3273.935378679
+"Washtenaw","Wayne","Total","School",4349.884368588
+"Wayne","Washtenaw","Total","School",4578.593165988
+"Detroit","Wayne","Total","Work-based",7959.5243899372
+"Wayne","Detroit","Total","Work-based",7527.8646318711
+"Macomb","Oakland","Total","University",7215.264934757
+"Oakland","Macomb","Total","University",7200.345854158
+"Oakland","Washtenaw","Total","School",587.119489776
+"Oakland","Macomb","Total","Work-based",5621.814860066
+"Macomb","Wayne","Total","Visiting",2138.783517673
+"Macomb","Wayne","Total","Work-based",1883.630021459
+"Wayne","Macomb","Total","Work-based",2144.002320296
+"Macomb","Oakland","Total","Visiting",5943.6951020156
+"Oakland","Macomb","Total","Visiting",5108.3138245406
+"Monroe","Oakland","Total","Discretionary",533.783050949
+"Macomb","Monroe","Total","Discretionary",13.143883701
+"St. Clair","St. Clair","Total","University",7483.86887979
+"Wayne","Monroe","Total","Work-based",454.32080734
+"Monroe","Wayne","Total","Work-based",220.557675325
+"Livingston","Wayne","Total","Shop",538.761818267
+"Washtenaw","Monroe","Total","Shop",2553.643507618
+"Monroe","Washtenaw","Total","Shop",2511.461485186
+"Monroe","Detroit","Total","Discretionary",193.96046132
+"Detroit","Monroe","Total","Discretionary",332.82985121
+"St. Clair","Wayne","Total","Escort",375.395143939
+"Wayne","Macomb","Total","Escort",4243.997260002
+"Monroe","Monroe","Total","University",9791.423644947
+"Livingston","Monroe","Total","Visiting",325.916548952
+"Monroe","Livingston","Total","Visiting",325.916548952
+"Oakland","Detroit","Total","Work-based",2261.262133364
+"Detroit","Oakland","Total","Work-based",3006.311012665
+"Macomb","Livingston","Total","Work",1143.87122757
+"Livingston","Washtenaw","Total","University",948.201423724
+"Washtenaw","Livingston","Total","University",1114.361836324
+"Macomb","Wayne","Total","Escort",3283.473276523
+"Washtenaw","Detroit","Total","Shop",333.5417224
+"Washtenaw","Oakland","Total","Shop",1746.73323925
+"Oakland","St. Clair","Total","Work",1812.616671525
+"St. Clair","Detroit","Total","Work",850.483180598
+"Monroe","Wayne","Total","University",530.6170986
+"Wayne","Monroe","Total","University",597.8367394
+"St. Clair","Detroit","Total","Escort",108.6995425
+"Washtenaw","Wayne","Total","Eating Out",857.641912926
+"Monroe","Washtenaw","Total","Eating Out",518.098331132
+"Washtenaw","Oakland","Total","University",1870.137311992
+"Oakland","Washtenaw","Total","Escort",158.424310192
+"Livingston","Washtenaw","Total","Shop",1083.869054097
+"Washtenaw","Livingston","Total","Shop",1287.257551116
+"Wayne","Livingston","Total","Work-based",87.40114303
+"St. Clair","Oakland","Total","Discretionary",158.749499365
+"Detroit","St. Clair","Total","Work",509.057761628
+"Livingston","Wayne","Total","Eating Out",325.26220442
+"Wayne","Livingston","Total","Eating Out",325.26220442
+"Livingston","Detroit","Total","Maintenance",273.120594695
+"Detroit","Livingston","Total","Maintenance",246.851136443
+"Wayne","Washtenaw","Total","Eating Out",678.481152426
+"Washtenaw","Oakland","Total","Work-based",76.9240826
+"Oakland","St. Clair","Total","Shop",1300.4060273
+"Oakland","Monroe","Total","Work-based",256.44410169
+"Monroe","Oakland","Total","Work-based",256.44410169
+"Livingston","Monroe","Total","Discretionary",30.332203682
+"Monroe","Livingston","Total","Discretionary",30.332203682
+"Oakland","St. Clair","Total","Discretionary",275.834008198
+"Monroe","Detroit","Total","Visiting",91.253996
+"Detroit","Monroe","Total","Visiting",91.253996
+"Wayne","St. Clair","Total","Work",264.083375545
+"Macomb","Wayne","Total","University",1534.606115
+"Wayne","Macomb","Total","University",722.8689631
+"Detroit","Washtenaw","Total","Shop",787.149316
+"Wayne","Livingston","Total","Discretionary",515.24638164
+"Monroe","Wayne","Total","School",404.319639
+"Wayne","Monroe","Total","School",404.319639
+"St. Clair","Wayne","Total","Maintenance",534.5549303
+"Wayne","St. Clair","Total","Maintenance",457.3142367
+"Washtenaw","Detroit","Total","Discretionary",789.232336231
+"Oakland","Washtenaw","Total","Shop",1995.032350419
+"Wayne","Macomb","Total","Visiting",2374.320601521
+"St. Clair","Livingston","Total","Work",197.426696565
+"Washtenaw","Detroit","Total","Visiting",234.84726364
+"Monroe","Oakland","Total","Visiting",43.494033346
+"Oakland","Monroe","Total","Visiting",43.494033346
+"Monroe","Detroit","Total","Maintenance",76.640171295
+"Detroit","Monroe","Total","Maintenance",147.307163562
+"Oakland","Monroe","Total","Discretionary",260.060909558
+"Monroe","Washtenaw","Total","University",639.390358511
+"Washtenaw","Monroe","Total","University",572.170717711
+"Washtenaw","Macomb","Total","Discretionary",70.32183564
+"Detroit","Washtenaw","Total","University",173.1451393
+"Washtenaw","Detroit","Total","University",173.1451393
+"Oakland","Monroe","Total","Maintenance",194.355815021
+"St. Clair","Detroit","Total","Eating Out",34.241331915
+"Monroe","Washtenaw","Total","Work-based",147.30777411
+"Washtenaw","Monroe","Total","Work-based",73.653887055
+"Livingston","Oakland","Total","University",700.125267978
+"Oakland","Livingston","Total","University",700.125267978
+"Washtenaw","Monroe","Total","Eating Out",417.460730332
+"Washtenaw","Oakland","Total","Escort",151.901207492
+"Detroit","Washtenaw","Total","Visiting",763.1305618
+"Detroit","Monroe","Total","University",46.631894328
+"Macomb","Washtenaw","Total","Visiting",118.724700885
+"St. Clair","Oakland","Total","University",204.006682
+"Oakland","St. Clair","Total","University",204.006682
+"Oakland","Washtenaw","Total","University",3509.233224491
+"Macomb","Washtenaw","Total","University",213.8943055
+"Washtenaw","Macomb","Total","University",286.414818899
+"Wayne","St. Clair","Total","Visiting",165.3056551
+"Monroe","Oakland","Total","Shop",25.830828938
+"Oakland","Monroe","Total","Shop",25.830828938
+"Detroit","Livingston","Total","Eating Out",455.160401535
+"Livingston","Detroit","Total","Eating Out",455.160401535
+"Monroe","Macomb","Total","Visiting",19.12160229
+"Macomb","Monroe","Total","Visiting",19.12160229
+"St. Clair","Wayne","Total","Work",232.284328605
+"Oakland","Monroe","Total","University",50.8855332
+"Monroe","Oakland","Total","University",50.8855332
+"Monroe","Detroit","Total","University",15.3678576
+"Monroe","Livingston","Total","Work",17.509114665
+"Livingston","Monroe","Total","Work",55.817057441
+"Oakland","St. Clair","Total","School",28.2085352
+"St. Clair","Washtenaw","Total","Maintenance",55.189384
+"Washtenaw","St. Clair","Total","Maintenance",55.189384
+"Detroit","St. Clair","Total","Maintenance",554.218112961
+"St. Clair","Livingston","Total","Maintenance",244.16474694
+"Livingston","St. Clair","Total","Maintenance",244.16474694
+"Macomb","Livingston","Total","Visiting",255.33096796
+"Livingston","Macomb","Total","Visiting",276.61553326
+"Washtenaw","Detroit","Total","Eating Out",363.66550430374
+"Detroit","Washtenaw","Total","Eating Out",363.66550430374
+"St. Clair","Monroe","Total","Maintenance",31.451499765
+"Monroe","Macomb","Total","Maintenance",50.2085367
+"Macomb","St. Clair","Total","Work-based",263.100501784
+"Detroit","St. Clair","Total","University",168.794229
+"Macomb","Monroe","Total","Maintenance",18.757036935
+"Livingston","St. Clair","Total","Work",171.694175205
+"Livingston","St. Clair","Total","Discretionary",255.311638381
+"St. Clair","Livingston","Total","Discretionary",255.311638381
+"Monroe","Livingston","Total","Shop",20.4218084
+"Monroe","Oakland","Total","Escort",23.6980082
+"Oakland","Monroe","Total","Escort",185.3016979
+"Livingston","Monroe","Total","Maintenance",92.80134888
+"Monroe","Livingston","Total","Maintenance",92.80134888
+"Monroe","St. Clair","Total","Visiting",33.040929983
+"Monroe","Macomb","Total","Work-based",30.43212018
+"Detroit","St. Clair","Total","Discretionary",692.541003966
+"St. Clair","Detroit","Total","Discretionary",585.35339231
+"St. Clair","Wayne","Total","Visiting",32.22667749
+"Livingston","Detroit","Total","University",260.0891235
+"St. Clair","Detroit","Total","University",47.6213992
+"Monroe","Oakland","Total","Maintenance",169.01763807
+"Livingston","Macomb","Total","Eating Out",91.131031481
+"Macomb","Livingston","Total","Eating Out",91.131031481
+"Washtenaw","Macomb","Total","Shop",88.424672552
+"Washtenaw","Macomb","Total","Maintenance",74.974311262
+"Macomb","Washtenaw","Total","Escort",41.22391336
+"Livingston","Macomb","Total","Escort",41.22391336
+"Monroe","St. Clair","Total","Work-based",19.12160229
+"St. Clair","Monroe","Total","Work-based",19.12160229
+NA,NA,"Total","Total",NA
+"Monroe","Monroe","Total","Total",356211.152712526
+"Detroit","Detroit","Total","Total",1582865.15788254
+"Detroit","Oakland","Total","Total",173482.997717154
+"Oakland","Detroit","Total","Total",169620.354436623
+"Wayne","Washtenaw","Total","Total",90386.5082089283
+"Washtenaw","Monroe","Total","Total",16480.4324371192
+"Monroe","Wayne","Total","Total",26242.2639473845
+"Wayne","Wayne","Total","Total",3263484.17725733
+"Washtenaw","Washtenaw","Total","Total",1160930.80095937
+"Detroit","Macomb","Total","Total",107529.888958085
+"Macomb","Detroit","Total","Total",115174.305908981
+"Oakland","Oakland","Total","Total",3788659.57046713
+"Livingston","Livingston","Total","Total",435866.879356281
+"Livingston","Wayne","Total","Total",22371.433504155
+"Wayne","Livingston","Total","Total",18032.110835312
+"Washtenaw","Detroit","Total","Total",7740.50430567186
+"Detroit","Washtenaw","Total","Total",7832.14685592686
+"Wayne","Macomb","Total","Total",74487.6678450313
+"Macomb","Oakland","Total","Total",237602.559505382
+"Oakland","Wayne","Total","Total",246069.658594792
+"Detroit","Wayne","Total","Total",288810.165552853
+"Wayne","Detroit","Total","Total",284020.172265142
+"Livingston","Detroit","Total","Total",1871.651398948
+"Detroit","Livingston","Total","Total",1744.524724117
+"St. Clair","Macomb","Total","Total",45226.0260390655
+"Macomb","St. Clair","Total","Total",46181.7314455775
+"Macomb","Macomb","Total","Total",2435372.57863203
+"St. Clair","St. Clair","Total","Total",462594.914714734
+"Oakland","Macomb","Total","Total",239205.12883018
+"Livingston","Washtenaw","Total","Total",27051.838773675
+"Washtenaw","Livingston","Total","Total",27659.1987724995
+"Livingston","Oakland","Total","Total",55527.9569501141
+"Oakland","Livingston","Total","Total",58340.3379202209
+"Wayne","Oakland","Total","Total",250797.046730242
+"St. Clair","Detroit","Total","Total",2256.281566388
+"Monroe","Detroit","Total","Total",1944.502251456
+"Detroit","Monroe","Total","Total",2629.040415271
+"Washtenaw","Oakland","Total","Total",26806.4319325791
+"Wayne","Monroe","Total","Total",25296.1174304235
+"Washtenaw","Wayne","Total","Total",89581.7920870182
+"Monroe","Washtenaw","Total","Total",17751.5122645812
+"Oakland","Washtenaw","Total","Total",28429.9253639385
+"Macomb","Washtenaw","Total","Total",1806.023946761
+"Monroe","Macomb","Total","Total",450.293976168
+"Macomb","Monroe","Total","Total",413.229323169
+"Macomb","Wayne","Total","Total",73337.1166217901
+"Livingston","Macomb","Total","Total",3154.508600486
+"Macomb","Livingston","Total","Total",1665.802931375
+"Washtenaw","Macomb","Total","Total",2117.448628446
+"St. Clair","Oakland","Total","Total",4281.420093606
+"Monroe","Oakland","Total","Total",2205.571017879
+"Oakland","Monroe","Total","Total",2179.490989368
+"Oakland","St. Clair","Total","Total",4940.60514704
+"St. Clair","Wayne","Total","Total",1174.461080334
+"Livingston","Monroe","Total","Total",504.867158955
+"Monroe","Livingston","Total","Total",486.981024579
+"Detroit","St. Clair","Total","Total",1924.611107555
+"Wayne","St. Clair","Total","Total",886.703267345
+"St. Clair","Livingston","Total","Total",696.903081886
+"St. Clair","Washtenaw","Total","Total",55.189384
+"Washtenaw","St. Clair","Total","Total",55.189384
+"Livingston","St. Clair","Total","Total",671.170560526
+"St. Clair","Monroe","Total","Total",50.573102055
+"Monroe","St. Clair","Total","Total",52.162532273

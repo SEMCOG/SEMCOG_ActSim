@@ -1,0 +1,11 @@
+Description,Target,Expression
+,_transit_ivt_home_to_school_walk_loc_peak,"skim_dict.lookup(persons.home_zone_id, persons.school_zone_id, ('PNR_LOC_IVT', 'AM'))"
+,_transit_ivt_home_to_school_walk_prm_peak,"skim_dict.lookup(persons.home_zone_id, persons.school_zone_id, ('PNR_PRM_IVT', 'AM'))"
+,_transit_ivt_home_to_school_walk_mix_peak,"skim_dict.lookup(persons.home_zone_id, persons.school_zone_id, ('PNR_MIX_IVT', 'AM'))"
+,_school_transit_available,(_transit_ivt_home_to_school_walk_loc_peak > 0) | (_transit_ivt_home_to_school_walk_prm_peak > 0) | (_transit_ivt_home_to_school_walk_mix_peak > 0)
+,_transit_ivt_home_to_work_drive_loc_peak,"skim_dict.lookup(persons.home_zone_id, persons.workplace_zone_id, ('PNR_LOC_IVT', 'AM'))"
+,_transit_ivt_home_to_work_drive_prm_peak,"skim_dict.lookup(persons.home_zone_id, persons.workplace_zone_id, ('PNR_PRM_IVT', 'AM'))"
+,_transit_ivt_home_to_work_drive_mix_peak,"skim_dict.lookup(persons.home_zone_id, persons.workplace_zone_id, ('PNR_MIX_IVT', 'AM'))"
+,_work_transit_available,(_transit_ivt_home_to_work_drive_loc_peak > 0) | (_transit_ivt_home_to_work_drive_prm_peak > 0) | (_transit_ivt_home_to_work_drive_mix_peak > 0)
+,_transit_available,(_school_transit_available > 0) | (_work_transit_available > 0)
+,workSchool_transit_subsidy_available,(_transit_available) & ((persons.workplace_zone_id > 0) | (persons.school_zone_id > 0))

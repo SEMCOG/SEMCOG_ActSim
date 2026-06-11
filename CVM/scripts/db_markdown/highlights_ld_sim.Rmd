@@ -1,0 +1,16 @@
+---
+output: 
+  flexdashboard::flex_dashboard:
+    orientation: columns
+    vertical_layout: fill
+    theme: yeti
+    css: "ReportDashboardStyles.css"
+editor_options: 
+  chunk_output_type: console
+---
+### Long Distance Trips
+
+```{r Long_Distance_Trips_ValueBox}
+value <- format(ld_trips[, sum(Trips)], big.mark = ",",  scientific = FALSE, trim = TRUE)
+valueBox(value, caption = "Long Distance Trips (SEMCOG)", icon = "fa-truck")
+```

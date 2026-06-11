@@ -1,0 +1,17 @@
+
+.value-box .value {
+	color: rgb(0, 0, 0);
+}
+.value-box .caption {
+  color: rgb(0, 0, 0);
+}
+
+/* hide the empty/“All” choice in the Selectize dropdown */
+.selectize-dropdown .option[data-value=""] {
+  display: none !important;
+}
+
+/* hide the empty/“All” stub in the Selectize input */
+.selectize-control.single .item[data-value=""] {
+  display: none !important;
+}
