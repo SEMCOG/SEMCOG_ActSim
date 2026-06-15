@@ -1,13 +1,7 @@
-
-ABM/configs/shadow_pricing.yaml
-ABM/configs/shadow_pricing.yaml
-ABM/configs/settings.yaml
 ABM/Scripts/extensions/__pycache__/*.pyc
+ABM/Scripts/__pycache__/*.pyc
 CVM/run_semcog_cvtm_log.txt
-CVM/run_semcog_cvtm.txt
 .vscode/settings.json
-ABM/Scripts/__pycache__/tapper.cpython-39.pyc
 .vscode
 Tasks/playground.ipynb
 .Rproj.user
-pkgs/*
