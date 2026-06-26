@@ -6,13 +6,6 @@ The **SEMCOG ActSim Model** is an integrated regional activity-based Model (ABM)
   +  rFreight_0.1-39 running under ```R 4.5.1```, with the CRAN R Project website at https://cran.r-project.org/bin/windows/.
   +  TransCAD 8 Build 22365, with the website at the https://www.caliper.com/transcad/default.htm
 
-**System Requirements (Recommended)**
-
-  +  Operating System: 64-bit Windows 10 or 64-bit Windows 11
-  +  Processor: Intel CPU Xeon Gold or AMD CPU Threadripper Pro, 24+ cores 
-  +  Memory: 256 GB RAM
-  +  Disk Space: 200 GB
-
 **Documentation Available** 
 
   +  User Guide: https://semcog.github.io/TDM_ActSim/SEMCOG_ABM_User_Guide.html
